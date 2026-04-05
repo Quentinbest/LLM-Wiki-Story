@@ -1,10 +1,13 @@
 ---
 title: Wiki Index
 type: index
+lang: en
 last_updated: 2026-04-05
 ---
 
 # Wiki Index
+
+> Chinese version: [[wiki/zh/index|中文索引]]
 
 ## Overview
 - *(overview page will be generated after sufficient chapters are ingested)*

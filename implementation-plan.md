@@ -543,7 +543,7 @@ Each level gets its own concept page with:
 ## 6. Directory Structure
 
 ```
-LLM-Wiki/
+LLM-Wiki-Story/
 ├── CLAUDE.md                          ← Schema: rules, workflows, conventions
 ├── implementation-plan.md             ← This document
 │
@@ -562,23 +562,49 @@ LLM-Wiki/
 │       └── ...
 │
 ├── wiki/                              ← LAYER 2: LLM-generated & maintained
-│   ├── index.md                       ← Content catalog (auto-maintained)
-│   ├── log.md                         ← Chronological activity log
-│   ├── overview.md                    ← High-level synthesis of McKee's framework
-│   ├── chapters/                      ← Chapter summaries
-│   ├── concepts/                      ← Core concepts (the-gap, controlling-idea, etc.)
-│   ├── structures/                    ← Story hierarchy (beat, scene, sequence, act)
-│   ├── principles/                    ← Prescriptive rules (principle-of-antagonism, etc.)
-│   ├── entities/                      ← Films, plays, novels
-│   ├── characters/                    ← Character design principles
-│   ├── genres/                        ← Genre analysis
-│   ├── comparisons/                   ← Cross-cutting synthesis
-│   ├── application/                   ← Practical how-to guides
-│   └── notes/                         ← Your personal reflections
+│   ├── en/                            ← English wiki
+│   │   ├── index.md                   ← English content catalog
+│   │   ├── log.md                     ← English activity log
+│   │   ├── overview.md                ← High-level synthesis
+│   │   ├── chapters/                  ← Chapter summaries
+│   │   ├── concepts/                  ← Core concepts
+│   │   ├── structures/                ← Story hierarchy
+│   │   ├── principles/                ← Prescriptive rules
+│   │   ├── entities/                  ← Films, plays, novels
+│   │   ├── characters/                ← Character design
+│   │   ├── genres/                    ← Genre analysis
+│   │   ├── comparisons/               ← Cross-cutting synthesis
+│   │   ├── application/               ← Practical how-to guides
+│   │   └── notes/                     ← Personal reflections
+│   └── zh/                            ← 中文维基 (mirrors en/ structure)
+│       ├── index.md                   ← 中文内容索引
+│       ├── log.md                     ← 中文活动日志
+│       ├── overview.md                ← 全书框架综述
+│       ├── chapters/                  ← 章节摘要
+│       ├── concepts/                  ← 核心概念
+│       ├── structures/                ← 故事层级结构
+│       ├── principles/                ← 创作原则
+│       ├── entities/                  ← 电影、戏剧、小说
+│       ├── characters/                ← 角色设计
+│       ├── genres/                    ← 类型分析
+│       ├── comparisons/               ← 对比分析
+│       ├── application/               ← 实践应用指南
+│       └── notes/                     ← 个人思考笔记
 │
 └── .claude/                           ← Claude Code config
     └── settings.local.json
 ```
+
+### Bilingual Design
+
+The wiki maintains **parallel English and Chinese trees** (`wiki/en/` and `wiki/zh/`). Key design decisions:
+
+- **Same filenames** in both trees (English kebab-case, e.g., `the-gap.md`). Chinese titles appear in frontmatter and headings.
+- **Language toggle links** at the top of every page connect to the other-language version.
+- **Wikilinks stay within the same language tree** — English pages link to English pages, Chinese to Chinese.
+- **Both indexes and logs updated together** on every operation.
+- **Chinese first-mention convention:** 中文名（English Name）on first use, then Chinese only.
+- **Terminology table** maintained in CLAUDE.md maps McKee's English terms to standardized Chinese translations.
 
 ---
 
@@ -586,7 +612,7 @@ LLM-Wiki/
 
 ### 7.1 Recommended Obsidian Settings
 
-- **Vault root:** Open `LLM-Wiki/` as an Obsidian vault
+- **Vault root:** Open `LLM-Wiki-Story/` as an Obsidian vault
 - **Files and links → Attachment folder path:** `sources/assets/`
 - **Files and links → New link format:** Shortest path when possible
 - **Files and links → Use [[Wikilinks]]:** ON
@@ -685,7 +711,7 @@ For each chapter:
 | Part 2 (Chapters 6–10) | ~70–90 pages: scene design and structure concepts expand significantly |
 | Part 3 (Chapters 11–15) | ~100–130 pages: genre pages, principle pages, many new entities |
 | Part 4 (Chapters 16–19) | ~140–170 pages: dialogue, exposition, writer's method pages |
-| Full book + supplementary | ~200–250 pages: comparisons, application guides, personal notes, supplementary material |
+| Full book + supplementary | ~200–250 pages per language (~400–500 total): comparisons, application guides, personal notes, supplementary material |
 
 At this scale, `index.md` alone is sufficient for navigation. If the wiki grows beyond ~300 pages (e.g., with extensive supplementary material), consider adding [qmd](https://github.com/tobi/qmd) for hybrid BM25/vector search.
 
