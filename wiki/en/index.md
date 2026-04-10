@@ -2,7 +2,7 @@
 title: Wiki Index
 type: index
 lang: en
-last_updated: 2026-04-09
+last_updated: 2026-04-10
 ---
 
 # Wiki Index
@@ -10,13 +10,15 @@ last_updated: 2026-04-09
 > 中文版：[[wiki/zh/index|中文索引]]
 
 ## Overview
-- *(overview page will be generated after ~5 chapters are ingested)*
+- [[overview]] — High-level synthesis of McKee's framework across Chapters 1–6
 
 ## Chapters
 - [[chapter-01-the-story-problem]] — The Story Problem: why story craft is declining and why it matters
 - [[chapter-02-the-structure-spectrum]] — The Structure Spectrum: story hierarchy, the Story Triangle, and design politics
 - [[chapter-03-structure-and-setting]] — Structure and Setting: the war on cliché, the four dimensions of setting, creative limitation, and research
 - [[chapter-04-structure-and-genre]] — Structure and Genre: the 25 film genres, genre conventions, mixing and reinventing genres
+- [[chapter-05-structure-and-character]] — Structure and Character: characterization vs. true character, character arc, climax and character
+- [[chapter-06-structure-and-meaning]] — Structure and Meaning: aesthetic emotion, premise, controlling idea, idea vs. counter-idea
 
 ## Concepts
 - [[structure]] — The internal system of events building to a climax expressing a specific meaning
@@ -32,6 +34,10 @@ last_updated: 2026-04-09
 - [[genre]] — The 25 film genres classified by subject, setting, role, event, and values
 - [[genre-conventions]] — The specific settings, roles, events, and values that define individual genres
 - [[mixing-genres]] — Combining genres to create richer meaning and emotional variety
+- [[aesthetic-emotion]] — The simultaneous encounter of thought and feeling that art creates
+- [[premise]] — The open-ended "What if...?" that inspires the creative process
+- [[controlling-idea]] — A story's irreducible meaning: Value + Cause, expressed through the climax
+- [[idea-vs-counter-idea]] — The dialectical engine: positive and negative charges arguing to climax
 
 ## Structures
 - [[beat]] — The smallest unit of story structure: an exchange of action/reaction
@@ -51,13 +57,19 @@ last_updated: 2026-04-09
 - [[war-on-cliche]] — The root of all cliché is ignorance of the story's world
 - [[story-obeys-its-world]] — A story must obey its own internal laws of probability
 - [[master-your-genre]] — Writers must master genre conventions to anticipate audience expectations
+- [[structure-is-character]] — Structure is character; character is structure — they are the same thing
+- [[dramatize-dont-explain]] — Master storytellers dramatize; they never explain
+- [[tell-the-truth]] — The artist's only responsibility is to tell the truth
 
 ## Entities (Films & Works)
 - [[tender-mercies]] — *Tender Mercies* (1983): McKee's example of minimalist storytelling and Miniplot
 - [[chinatown]] — *Chinatown* (1974): genre mastery and reinvention — the Murder Mystery that broke its own convention
+- [[the-verdict]] — *The Verdict* (1982): McKee's primary example of character arc — from self-destruction to redemption
 
 ## Characters
-*(character design principles will appear here as relevant chapters are ingested)*
+- [[characterization-vs-true-character]] — The fundamental distinction: observable traits vs. choices under pressure
+- [[character-arc]] — The change of inner nature over the course of the story
+- [[character-revelation]] — True character revealed in contrast or contradiction to characterization
 
 ## Genres
 *(genre analysis pages will appear here as relevant chapters are ingested)*
@@ -66,6 +78,7 @@ last_updated: 2026-04-09
 - [[archplot-vs-miniplot-vs-antiplot]] — The three corners of the Story Triangle compared
 - [[literary-talent-vs-story-talent]] — The tension between literary prose ability and narrative design ability
 - [[convention-vs-cliche]] — Convention is form; cliché is stale execution of form
+- [[idealist-vs-pessimist-vs-ironist]] — Three visions of life: up-endings, down-endings, and ironic endings
 
 ## Application
 *(practical how-to guides will appear here as the wiki grows)*
@@ -75,3 +88,5 @@ last_updated: 2026-04-09
 - [[chapter-02-notes]] — Reflections on structure's definition, story events as functions (input/output/conflict)
 - [[chapter-03-notes]] — Reflections on setting, writing things down as working knowledge, inspiration as cliché
 - [[chapter-04-notes]] — Reflections on genre conventions as boundaries, art film's intellectual wrapping, genre study methodology
+- [[chapter-05-notes]] — Reflections on choices under pressure revealing character, film as temporal art
+- [[chapter-06-notes]] — Reflections on aesthetic emotion, story as proof, show don't tell, self-recognition

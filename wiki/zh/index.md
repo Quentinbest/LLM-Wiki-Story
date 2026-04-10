@@ -2,7 +2,7 @@
 title: 维基索引
 type: index
 lang: zh
-last_updated: 2026-04-09
+last_updated: 2026-04-10
 ---
 
 # 维基索引
@@ -10,13 +10,15 @@ last_updated: 2026-04-09
 > English: [[wiki/en/index|English Index]]
 
 ## 概览
-- *（概览页面将在收录约5章内容后生成）*
+- [[overview]] — 第1-6章麦基框架的全书综述
 
 ## 章节
 - [[chapter-01-the-story-problem]] — 故事问题：故事技艺为何衰落，为何重要
 - [[chapter-02-the-structure-spectrum]] — 结构谱系：故事层级、故事三角与设计政治
 - [[chapter-03-structure-and-setting]] — 结构与背景：对抗陈词滥调、背景的四个维度、创作限制与研究
 - [[chapter-04-structure-and-genre]] — 结构与类型：25种电影类型、类型惯例、类型混合与重塑
+- [[chapter-05-structure-and-character]] — 结构与角色：人物塑造与真实性格、人物弧光、高潮与角色
+- [[chapter-06-structure-and-meaning]] — 结构与意义：审美情感、前提、主控思想、思想与反思想
 
 ## 核心概念
 - [[structure]] — 结构：朝向高潮递进的事件内部系统，表达特定意义
@@ -32,6 +34,10 @@ last_updated: 2026-04-09
 - [[genre]] — 类型：按主题、背景、角色、事件和价值分类的25种电影类型
 - [[genre-conventions]] — 类型惯例：定义各个类型的具体背景、角色、事件和价值
 - [[mixing-genres]] — 类型混合：结合类型以创造更丰富的意义和情感变化
+- [[aesthetic-emotion]] — 审美情感：艺术创造的思想与感受的同时相遇
+- [[premise]] — 前提：激发创作过程的开放式"如果……？"
+- [[controlling-idea]] — 主控思想：故事不可磨灭的意义——价值+原因，通过高潮表达
+- [[idea-vs-counter-idea]] — 思想与反思想：正面与负面电荷争辩至高潮的辩证引擎
 
 ## 故事结构
 - [[beat]] — 节拍：故事结构的最小单元，动作/反应的交换
@@ -51,13 +57,19 @@ last_updated: 2026-04-09
 - [[war-on-cliche]] — 对抗陈词滥调：一切陈词滥调的根源是不了解故事的世界
 - [[story-obeys-its-world]] — 故事必须服从自身世界的内部概率法则
 - [[master-your-genre]] — 精通你的类型：作者必须精通类型惯例以预判观众期望
+- [[structure-is-character]] — 结构即角色：结构与角色是同一件事
+- [[dramatize-dont-explain]] — 戏剧化而非解释：大师级故事讲述者戏剧化表达，从不解释
+- [[tell-the-truth]] — 讲述真相：艺术家唯一的责任是讲述真相
 
 ## 作品实体（电影与文学作品）
 - [[tender-mercies]] — 《温柔的慈悲》（*Tender Mercies*, 1983）：麦基关于极简叙事与小情节的典型案例
 - [[chinatown]] — 《唐人街》（*Chinatown*, 1974）：类型精通与革新——打破自身惯例的谋杀悬疑片
+- [[the-verdict]] — 《大审判》（*The Verdict*, 1982）：麦基关于人物弧光的主要案例——从自我毁灭到救赎
 
 ## 角色设计
-*（角色设计原则将随着相关章节的收录逐步出现）*
+- [[characterization-vs-true-character]] — 人物塑造与真实性格：可观察特征与压力下的选择之间的根本区分
+- [[character-arc]] — 人物弧光：故事过程中内在本质的变化
+- [[character-revelation]] — 角色揭示：真实性格与人物塑造的对比或矛盾
 
 ## 类型
 *（类型分析页面将随着相关章节的收录逐步出现）*
@@ -66,6 +78,7 @@ last_updated: 2026-04-09
 - [[archplot-vs-miniplot-vs-antiplot]] — 故事三角的三个顶点对比
 - [[literary-talent-vs-story-talent]] — 文学才华与故事才华之间的张力
 - [[convention-vs-cliche]] — 惯例是形式，陈词滥调是形式的陈旧执行
+- [[idealist-vs-pessimist-vs-ironist]] — 三种人生观：正面结局、负面结局与反讽结局
 
 ## 实践应用
 *（实用操作指南将随着维基的扩展逐步出现）*
@@ -75,3 +88,5 @@ last_updated: 2026-04-09
 - [[chapter-02-notes]] — 关于结构定义、故事事件的函数类比（输入/输出/冲突）的思考
 - [[chapter-03-notes]] — 关于背景、写下来作为工作知识、灵感即陈词滥调的思考
 - [[chapter-04-notes]] — 关于类型惯例作为边界、艺术电影的知性包裹、类型研究方法论的思考
+- [[chapter-05-notes]] — 关于压力下的选择揭示角色、电影作为时间艺术的思考
+- [[chapter-06-notes]] — 关于审美情感、故事作为证据、展示而非讲述、自我认知的思考

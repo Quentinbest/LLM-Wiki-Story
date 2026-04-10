@@ -84,3 +84,43 @@ lang: zh
   - `notes/chapter-03-notes.md`（中 + 英）
   - `notes/chapter-04-notes.md`（中 + 英）
 - 备注：将四个ch*-note.md来源文件转换为双语维基笔记页面。保留中文原文并提供英文翻译。关键思考包括故事事件的函数类比（第2章）、将写作比喻为从"内存"写入"硬盘"（第3章）、以及"知道≠做到"的洞见（第4章）。编目了25种电影类型，将类型惯例定义为创作限制，追溯了类型演变（西部片、心理剧、爱情故事），并确立《唐人街》为类型精通与革新的核心案例。关键区分：惯例≠陈词滥调。
+
+## [2026-04-10] 收录 | 第5章：结构与角色
+- 来源：`sources/book/5STRUCTURE_AND_CHARACTER.md`
+- 新建页面：
+  - `chapters/chapter-05-structure-and-character.md`（中 + 英）
+  - `characters/characterization-vs-true-character.md`（中 + 英）
+  - `characters/character-arc.md`（中 + 英）
+  - `characters/character-revelation.md`（中 + 英）
+  - `principles/structure-is-character.md`（中 + 英）
+  - `entities/the-verdict.md`（中 + 英）
+- 更新页面：无
+- 标记矛盾：无
+- 备注：解决了"情节vs.角色"之争。引入了人物塑造/真实性格的区分、人物弧光（五步模式）和角色揭示。《大审判》作为从自我毁灭到救赎的完整人物弧光的主要案例。
+
+## [2026-04-10] 收录 | 第6章：结构与意义
+- 来源：`sources/book/6STRUCTURE_AND_MEANING.md`
+- 新建页面：
+  - `chapters/chapter-06-structure-and-meaning.md`（中 + 英）
+  - `concepts/aesthetic-emotion.md`（中 + 英）
+  - `concepts/premise.md`（中 + 英）
+  - `concepts/controlling-idea.md`（中 + 英）
+  - `concepts/idea-vs-counter-idea.md`（中 + 英）
+  - `principles/dramatize-dont-explain.md`（中 + 英）
+  - `principles/tell-the-truth.md`（中 + 英）
+  - `comparisons/idealist-vs-pessimist-vs-ironist.md`（中 + 英）
+- 更新页面：无
+- 标记矛盾：无
+- 备注：完成了全书第一部分。引入审美情感作为思想与情感的融合、前提/主控思想的区分、以及思想与反思想的辩证引擎。三种作者视角（理想主义者/悲观主义者/反讽主义者）对应三种结局类型。
+
+## [2026-04-10] 收录 | 个人笔记（第5-6章）
+- 来源：`sources/book/ch5-note.md`、`sources/book/ch6-note.md`
+- 新建页面：
+  - `notes/chapter-05-notes.md`（中 + 英）
+  - `notes/chapter-06-notes.md`（中 + 英）
+- 备注：第5章关于压力下的选择和电影作为时间艺术的思考。第6章关于审美情感、故事作为证据/论证、展示而非讲述作为意义原则、主控思想的组成部分、以及通过写作实现自我认知的思考。
+
+## [2026-04-10] 综合 | 生成概览页面
+- 新建页面：
+  - `overview.md`（中 + 英）
+- 备注：第1-6章麦基框架的全书综述。梳理了从诊断（第1章）经由工具包（第2章）、世界（第3章）、契约（第4章）、引擎（第5章）到目的地（第6章）的论证弧线。识别了浮现的分层模型和框架中的五组关键张力。

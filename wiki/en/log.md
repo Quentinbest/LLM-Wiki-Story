@@ -89,3 +89,43 @@ lang: en
   - `notes/chapter-03-notes.md` (en + zh)
   - `notes/chapter-04-notes.md` (en + zh)
 - Notes: Converted all four ch*-note.md source files into bilingual wiki note pages. Chinese originals preserved with English translations. Key reflections include the computational analogy for story events (Ch.2), the RAM/hard-drive metaphor for writing things down (Ch.3), and the insight that knowing ≠ doing (Ch.4). Catalogs 25 film genres, defines genre conventions as creative limitations, traces genre evolution (Western, Psycho-Drama, Love Story), and establishes Chinatown as the central example of genre mastery and reinvention. Key distinction: convention ≠ cliché.
+
+## [2026-04-10] ingest | Chapter 5: Structure and Character
+- Source: `sources/book/5STRUCTURE_AND_CHARACTER.md`
+- Pages created:
+  - `chapters/chapter-05-structure-and-character.md` (en + zh)
+  - `characters/characterization-vs-true-character.md` (en + zh)
+  - `characters/character-arc.md` (en + zh)
+  - `characters/character-revelation.md` (en + zh)
+  - `principles/structure-is-character.md` (en + zh)
+  - `entities/the-verdict.md` (en + zh)
+- Pages updated: none
+- Contradictions flagged: none
+- Notes: Resolves the plot-vs-character debate. Introduces the characterization/true-character distinction, character arc (five-step pattern), and character revelation. The Verdict serves as the primary example of a full character arc from self-destruction to redemption.
+
+## [2026-04-10] ingest | Chapter 6: Structure and Meaning
+- Source: `sources/book/6STRUCTURE_AND_MEANING.md`
+- Pages created:
+  - `chapters/chapter-06-structure-and-meaning.md` (en + zh)
+  - `concepts/aesthetic-emotion.md` (en + zh)
+  - `concepts/premise.md` (en + zh)
+  - `concepts/controlling-idea.md` (en + zh)
+  - `concepts/idea-vs-counter-idea.md` (en + zh)
+  - `principles/dramatize-dont-explain.md` (en + zh)
+  - `principles/tell-the-truth.md` (en + zh)
+  - `comparisons/idealist-vs-pessimist-vs-ironist.md` (en + zh)
+- Pages updated: none
+- Contradictions flagged: none
+- Notes: Completes Part One of the book. Introduces aesthetic emotion as the fusion of thought and feeling, the premise/controlling-idea distinction, and the dialectical engine of idea vs. counter-idea. Three authorial visions (idealist/pessimist/ironist) mapped to ending types.
+
+## [2026-04-10] ingest | Personal Notes (Chapters 5–6)
+- Source: `sources/book/ch5-note.md`, `sources/book/ch6-note.md`
+- Pages created:
+  - `notes/chapter-05-notes.md` (en + zh)
+  - `notes/chapter-06-notes.md` (en + zh)
+- Notes: Ch.5 reflections on choices under pressure and film as temporal art. Ch.6 reflections on aesthetic emotion, story as proof/argument, show-don't-tell as meaning principle, controlling idea components, and self-recognition through writing.
+
+## [2026-04-10] synthesis | Overview Page Generated
+- Pages created:
+  - `overview.md` (en + zh)
+- Notes: High-level synthesis of McKee's framework across Chapters 1–6. Maps the arc from diagnosis (Ch.1) through toolkit (Ch.2), world (Ch.3), contract (Ch.4), engine (Ch.5), to destination (Ch.6). Identifies the emerging layered model and five key tensions in the framework.
