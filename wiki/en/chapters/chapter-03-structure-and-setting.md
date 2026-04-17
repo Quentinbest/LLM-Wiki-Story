@@ -29,6 +29,30 @@ A story's setting is four-dimensional — [[setting|Period, Duration, Location, 
 
 McKee then prescribes three modes of [[research]] — memory, imagination, and fact — as the writer's weapons against cliché and writer's block. Finally, he describes the discipline of [[creative-choices]]: generating far more material than needed (ten to one, even twenty to one), then selecting only the best, burning the rest. Genius is not just creation but the taste and judgment to destroy what is mediocre.
 
+## Chapter Concept Map
+
+```mermaid
+flowchart TB
+  ch[Chapter 3<br/>Structure and Setting]
+  setting[Setting]
+  limit[Creative Limitation]
+  research[Research]
+  choices[Creative Choices]
+  war([War on Cliché])
+  obey([Story Obeys Its World])
+  ch --> setting
+  ch --> limit
+  ch --> research
+  ch --> choices
+  ch --> war
+  ch --> obey
+  setting -->|four dimensions| limit
+  limit -->|enables| choices
+  research -->|fuels knowledge of| setting
+  war -.cured by.-> research
+  obey -->|enforces| setting
+```
+
 ## Key Concepts Introduced
 
 - **[[setting]]** — The four-dimensional world of a story: Period, Duration, Location, and Level of Conflict

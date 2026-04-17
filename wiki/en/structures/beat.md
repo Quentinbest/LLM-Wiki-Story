@@ -4,12 +4,14 @@ type: structure
 lang: en
 chapter_refs:
   - 2
+  - 11
 related:
   - "[[scene]]"
-  - "[[story-event]]"
+  - "[[text-and-subtext]]"
+  - "[[turning-point]]"
 film_examples:
-  - "[[tender-mercies]]"
-last_updated: 2026-04-07
+  - "[[casablanca]]"
+last_updated: 2026-04-17
 tags:
   - structure
   - story-hierarchy
@@ -21,7 +23,20 @@ tags:
 
 ## Definition
 
-A Beat is an exchange of behavior in action/reaction. Beat by beat, these changing behaviors shape the turning of a scene. Not to be confused with the screenplay notation [beat] meaning "short pause" in dialogue.
+A Beat is an exchange of action and reaction in behavior. Beat by beat, those shifts create the inner life of a scene and prepare its [[turning-point]]. It should not be confused with the screenplay notation `[beat]` meaning a pause in dialogue.
+
+## Concept Map
+
+```mermaid
+flowchart LR
+  self[[Beat<br/>smallest unit]]
+  scene[[Scene]]
+  sub[Text and Subtext]
+  turn[Turning Point]
+  sub --> self
+  self -->|aggregates into| scene
+  self -->|culminates in| turn
+```
 
 ## Position in the Story Hierarchy
 
@@ -31,25 +46,27 @@ A Beat is an exchange of behavior in action/reaction. Beat by beat, these changi
 
 ## McKee's Argument
 
-McKee identifies the beat as the atomic unit of storytelling. Every scene is constructed from a series of beats—distinct shifts in behavior where one character acts and another reacts, creating a pattern of escalating change. Without clear beats, scenes become static conversations rather than dynamic dramatic action.
+McKee identifies the beat as the atomic unit of storytelling, then deepens the idea in Chapter 11 by making it analytical. Beats are not only surface shifts but subtextual actions: seducing, deflecting, humiliating, pleading, threatening. Without changing beats, scenes flatten into repetitive talk.
 
 ## How It Works
 
-Each beat represents a distinctly different behavior. In a scene, beats progress through escalating exchanges: characters may shift from teasing to insulting, from threatening to pleading, from pleading to violence. Each shift is a new beat. The final beat of a scene often coincides with the scene's Turning Point.
+Each beat represents a distinctly different behavior. A new beat begins when the essential action changes. In scene analysis, writers name each side of the exchange with active phrases so they can see the scene's hidden arc and identify where the decisive turn occurs.
 
 ## Film Examples
 
-- McKee's "lovers break up" illustration: Six beats progress from teasing → insults → threats/dares → pleading/ridicule → violence → the decision to end the relationship. Each beat is a clear shift in action/reaction behavior.
+- **[[casablanca]]** — Rick and Ilsa's scene lives through shifting beats of approach, resistance, hurt, and redefinition.
+- McKee's "lovers break up" illustration — The scene turns because each beat changes its emotional tactic.
 
 ## Relationship to Other Concepts
 
 - [[scene]] — Beats build scenes; a scene's arc is shaped by its sequence of beats
-- [[story-event]] — The final beat of a scene often creates the story event that turns the scene's value
+- [[text-and-subtext]] — The real action of a beat lies beneath the spoken surface
+- [[turning-point]] — The final or decisive beat often triggers the turn
 
 ## Common Mistakes
 
-McKee warns against writing scenes where characters maintain the same behavior throughout. If characters are arguing at the beginning and still arguing the same way at the end, without distinct shifts in behavior (beats), the scene lacks internal structure.
+McKee warns against scenes where the same tactic repeats without change. If characters begin in one behavioral mode and remain there, the scene may contain noise but no design.
 
 ## Sources
 
-- *Story* Chapter 2, "The Structure Spectrum"
+- *Story* Chapters 2 and 11

@@ -23,6 +23,21 @@ tags:
 
 The source of all clichés can be traced to one thing alone: **the writer does not know the world of his story.** When writers lack deep knowledge of their fictional universe, they inevitably borrow from other films and novels — reheating literary leftovers. The antidote is exhaustive knowledge of the story's [[setting]], achieved through [[research]], expressed through disciplined [[creative-choices]].
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self([War on Cliché])
+  setting[Setting]
+  research[Research]
+  choices[Creative Choices]
+  limit[Creative Limitation]
+  self -->|demands knowledge of| setting
+  self -->|fueled by| research
+  self -->|disciplined via| choices
+  self <-->|enabled by| limit
+```
+
 ## McKee's Reasoning
 
 Modern audiences are the most story-saturated in history, consuming in a single day what previous generations consumed in a week. By the time filmgoers sit down to a new work, they've absorbed tens of thousands of hours of story. Cliché is the inevitable result when a writer, reaching into an insufficiently prepared mind for material, comes up empty and runs to other works for ideas. The "worldwide epidemic" of audience dissatisfaction has this single, clear cause.

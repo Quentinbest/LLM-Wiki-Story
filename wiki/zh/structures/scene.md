@@ -28,6 +28,23 @@ tags:
 
 场景（Scene）是在大致连续的时间和空间中，通过冲突展开的行动，以具有可感知意义的程度转变角色生活中至少一个价值负荷的状况。理想情况下，每个场景都是一个[[story-event|故事事件]]。
 
+## 概念关系图
+
+```mermaid
+flowchart LR
+  self[[场景]]
+  beat[[节拍]]
+  sequence[[序列]]
+  values((故事价值))
+  event[故事事件]
+  principle([没有不转变的场景])
+  beat -->|构建| self
+  self -->|聚合为| sequence
+  self -->|转变| values
+  self -->|即一个| event
+  principle -.支配.-> self
+```
+
 ## 在故事层级中的位置
 
 - **上一层级：** [[sequence]]（序列）— 场景构建序列；封顶场景递送序列高潮

@@ -27,6 +27,16 @@ When characterization and true character match — when inner life and outer app
 
 Major characters must be written in depth — they cannot be at heart what they seem at face. Minor roles may or may not need hidden dimensions, but principals *must* have this gap between surface and depth.
 
+```mermaid
+flowchart LR
+  char[Characterization]
+  reveal[Character Revelation]
+  true[True Character]
+  arc[Character Arc]
+  char --> reveal --> true
+  true --> arc
+```
+
 ## How It Works
 
 - Establish a clear, specific characterization (the mask)

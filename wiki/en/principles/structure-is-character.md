@@ -25,6 +25,19 @@ tags:
 
 Structure is character; character is structure. They are the same thing. The function of structure is to provide progressively building pressures that force characters into more and more difficult choices, revealing their true natures. The function of character is to bring the qualities of characterization necessary to credibly act out those choices. If you change one, you change the other.
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self([Structure Is Character])
+  charz[Characterization vs True Character]
+  arc[Character Arc]
+  structure[[Structure]]
+  self <-->|fuses| structure
+  self -->|reveals| charz
+  self -->|drives| arc
+```
+
 ## McKee's Reasoning
 
 The phrase "character-driven story" is redundant — all stories are character-driven. Event design and character design mirror each other. The event structure is created out of characters' choices under pressure, while characters are revealed and changed by how they choose to act under pressure.

@@ -22,6 +22,19 @@ tags:
 
 Story Form is the universal, timeless shape that makes a work a story rather than portraiture or collage. Like the underlying form of music that distinguishes music from noise, or the cardinal principles of visual art that distinguish a painting from a doodle, story form shapes narrative into story. Across all cultures and through all ages, this innate form has been endlessly variable but changeless.
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self[Story Form]
+  sam[Story as Metaphor]
+  structure[[Structure]]
+  arch[[Archplot]]
+  sam -->|expressed as| self
+  self -->|manifests as| structure
+  self -->|anchored by| arch
+```
+
 ## McKee's Argument
 
 McKee insists that form does not mean "formula." There is no recipe that guarantees success. Story is too rich in mystery, complexity, and flexibility to be reduced to a formula—"Only a fool would try." Rather, a writer must *grasp* story form, which is inescapable. Despite the staggering variety among great stories (from *Tender Mercies* to *Raiders of the Lost Ark*, from *Hannah and Her Sisters* to *Monty Python*), all embody the same universal form. The audience responds to this deep form when it says, "What a good story!"

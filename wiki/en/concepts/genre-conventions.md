@@ -24,6 +24,19 @@ tags:
 
 Genre conventions are the specific settings, roles, events, and values that define individual genres and their subgenres. They are the audience's expectations — the structural patterns that filmgoers have internalized through a lifetime of moviegoing.
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self[Genre Conventions]
+  genre[Genre]
+  cl[Creative Limitation]
+  setting[Setting]
+  genre -->|defined by| self
+  self -->|acts as| cl
+  setting -->|shapes| self
+```
+
 ## McKee's Argument
 
 Conventions are not clichés — they are necessary elements of form. That boy meets girl in a Love Story is a convention; the cliché is *how* they meet (the tired singles-bar encounter, the adventure-forced hate-at-first-sight). The writer's challenge is to fulfill the convention in a way that is fresh and original.

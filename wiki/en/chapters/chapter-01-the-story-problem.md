@@ -28,6 +28,27 @@ McKee establishes that story design—not dialogue, not description—is the wri
 
 Finally, McKee distinguishes two talents: literary talent (converting language into expressive form) and story talent (converting life into meaningful experience). The former is common; the latter is rare. Both are needed, but [[craft-maximizes-talent]]—without craft, talent burns wildly but accomplishes nothing.
 
+## Chapter Concept Map
+
+```mermaid
+flowchart TB
+  ch[Chapter 1<br/>The Story Problem]
+  metaphor[Story as Metaphor]
+  form[Story Form]
+  talent[Literary vs Story Talent]
+  craft([Craft Maximizes Talent])
+  tell([Tell Story])
+  ch --> metaphor
+  ch --> form
+  ch --> talent
+  ch --> craft
+  ch --> tell
+  form -.shaped by.-> craft
+  talent -->|channeled by| craft
+  tell -->|demands mastery of| form
+  metaphor -->|delivered through| form
+```
+
 ## Key Concepts Introduced
 
 - **[[story-as-metaphor]]** — Story is not escape from reality but a metaphor for life, abstracting essences from the day-to-day

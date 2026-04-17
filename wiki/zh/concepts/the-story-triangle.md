@@ -25,6 +25,24 @@ tags:
 
 故事三角（The Story Triangle）是麦基描绘所有可能的故事设计的地图。它是一个三角形，[[archplot|大情节]]（经典设计）位于顶端，[[miniplot|小情节]]（极简主义）位于左下角，[[antiplot|反情节]]（反结构）位于右下角。在小情节与反情节之间的连线以下是"非情节"（Nonplot）——不产生弧线、停留在静态中的故事。在这个三角形内部坐落着"编剧全部的宇宙观，他们对现实的无数种多元想象"。
 
+## 概念关系图
+
+```mermaid
+flowchart TB
+  self{{故事三角}}
+  arch[[大情节]]
+  mini[[小情节]]
+  anti[[反情节]]
+  structure[[结构]]
+  self --> arch
+  self --> mini
+  self --> anti
+  arch <-->|对比| mini
+  arch <-->|颠覆| anti
+  mini <-->|相异| anti
+  structure -.映射于.-> self
+```
+
 ## 麦基的论述
 
 三角形组织了故事沿之变化的七个形式维度：

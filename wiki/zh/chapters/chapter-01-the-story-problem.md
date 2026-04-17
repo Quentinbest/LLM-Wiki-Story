@@ -28,6 +28,27 @@ tags:
 
 最后，麦基区分了两种天赋：文学天赋（将语言转化为富有表现力的形式）和故事天赋（将生活转化为有意义的体验）。前者常见，后者稀少。两者都不可或缺，但[[craft-maximizes-talent|手艺使天赋最大化]]——没有手艺的天赋，就像没有引擎的燃料，虽然燃烧猛烈，却一事无成。
 
+## 章节概念图
+
+```mermaid
+flowchart TB
+  ch[第1章<br/>故事的问题]
+  metaphor[故事即隐喻]
+  form[故事形式]
+  talent[文学天赋vs讲故事天赋]
+  craft([手艺最大化天赋])
+  tell([讲故事])
+  ch --> metaphor
+  ch --> form
+  ch --> talent
+  ch --> craft
+  ch --> tell
+  form -.通过其塑造.-> craft
+  talent -->|被其引导| craft
+  tell -->|要求精通| form
+  metaphor -->|借此呈现| form
+```
+
 ## 引入的核心概念
 
 - **[[story-as-metaphor]]**（故事即比喻）— 故事不是对现实的逃避，而是对生活的隐喻，从日常中提炼本质

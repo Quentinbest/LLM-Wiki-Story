@@ -26,6 +26,19 @@ tags:
 
 幕（Act）是一系列序列的组合，在一个高潮场景中达到顶点，引发比之前任何序列或场景都更强大的重大价值逆转。
 
+## 概念关系图
+
+```mermaid
+flowchart LR
+  self[[幕]]
+  sequence[[序列]]
+  climax[[故事高潮]]
+  values((故事价值))
+  sequence -->|构建| self
+  self -->|高潮于| climax
+  self -->|重大逆转| values
+```
+
 ## 在故事层级中的位置
 
 - **上一层级：** [[story-climax]]（故事高潮）— 幕朝着故事高潮推进；最后一幕的高潮即为故事高潮

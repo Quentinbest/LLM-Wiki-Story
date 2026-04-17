@@ -20,6 +20,19 @@ tags:
 
 McKee's [[the-story-triangle]] maps the three fundamental approaches to story design. Understanding how they differ—and what they share—is essential for every writer.
 
+```mermaid
+flowchart TB
+  tri{{Story Triangle}}
+  a[[Archplot]]
+  m[[Miniplot]]
+  an[[Antiplot]]
+  tri --> a
+  tri --> m
+  tri --> an
+  m -.reduces.-> a
+  an -.reverses.-> a
+```
+
 ## Key Differences
 
 | Dimension | [[archplot]] | [[miniplot]] | [[antiplot]] |

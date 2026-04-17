@@ -23,6 +23,24 @@ tags:
 
 The Story Triangle is McKee's map of all possible story designs. It is a triangle with [[archplot]] (Classical Design) at the apex, [[miniplot]] (Minimalism) at the lower-left, and [[antiplot]] (Antistructure) at the lower-right. Below the line between Miniplot and Antiplot lies Nonplot—stories that do not arc and remain in stasis. Within this triangle sits "the totality of writers' cosmologies, all their multitudinous visions of reality."
 
+## Concept Map
+
+```mermaid
+flowchart TB
+  self{{The Story Triangle}}
+  arch[[Archplot]]
+  mini[[Miniplot]]
+  anti[[Antiplot]]
+  structure[[Structure]]
+  self --> arch
+  self --> mini
+  self --> anti
+  arch <-->|contrast| mini
+  arch <-->|inversion| anti
+  mini <-->|distinct| anti
+  structure -.mapped on.-> self
+```
+
 ## McKee's Argument
 
 The triangle organizes seven formal dimensions along which stories vary:

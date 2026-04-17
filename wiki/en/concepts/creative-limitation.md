@@ -25,6 +25,19 @@ tags:
 
 The Principle of Creative Limitation states that constraint inspires creativity rather than inhibiting it. The relationship between structure and setting (or genre) restricts creative choices — and this restriction is precisely what produces originality. Freedom within a circle of obstacles is the condition under which talent thrives.
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self[Creative Limitation]
+  setting[Setting]
+  gc[Genre Conventions]
+  cc[Creative Choices]
+  setting -->|imposes| self
+  gc -->|imposes| self
+  self -->|forces| cc
+```
+
 ## McKee's Argument
 
 McKee frames this as an irony: "The larger the world, the more diluted the knowledge of the writer, therefore the fewer his creative choices and the more clichéd the story. The smaller the world, the more complete the knowledge of the writer, therefore the greater his creative choices." Artists crave freedom, but unbounded freedom leads to superficiality. It is the discipline of working within defined limits — a specific setting, a genre's conventions — that forces the imagination to dig deeper.

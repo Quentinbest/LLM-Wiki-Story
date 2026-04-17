@@ -18,6 +18,19 @@ tags:
 
 McKee categorizes writers and their stories into three grand categories based on the emotional charge of their [[controlling-idea|Controlling Idea]]. This framework illuminates how different visions of life produce different kinds of endings and meanings.
 
+```mermaid
+flowchart LR
+  ci[Controlling Idea]
+  i[Idealist]
+  p[Pessimist]
+  ir[Ironist]
+  ci --> i
+  ci --> p
+  ci --> ir
+  i -.up-ending.-> ir
+  p -.down-ending.-> ir
+```
+
 ## Key Differences
 
 | Dimension | Idealist | Pessimist | Ironist |

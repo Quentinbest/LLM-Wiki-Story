@@ -25,6 +25,21 @@ tags:
 
 The writer must master Classical Design ([[archplot]]) before attempting [[miniplot]] or [[antiplot]]. Minimalism and antistructure are not independent forms—they are reactions to the Classical. You cannot creatively reduce or reverse what you do not understand.
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self([Master Classical Form])
+  arch[[Archplot]]
+  mini[[Miniplot]]
+  anti[[Antiplot]]
+  triangle{{Story Triangle}}
+  self -->|requires fluency in| arch
+  self -.prerequisite for.-> mini
+  self -.prerequisite for.-> anti
+  self -->|maps| triangle
+```
+
 ## McKee's Reasoning
 
 By instinct or study, fine writers recognize that Miniplot and Antiplot were born out of the Archplot—one shrinks it, the other contradicts it. The avant-garde exists to oppose the popular, until it too becomes popular. Bergman wrote love stories for twenty years before *The Silence* or *Persona*. Fellini made *I Vitelloni* and *La Strada* before *Amarcord* or *8½*. Godard made *Breathless* before *Weekend*. Altman perfected his craft in TV's *Bonanza*. First, the masters mastered the Archplot.

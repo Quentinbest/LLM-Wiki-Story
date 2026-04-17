@@ -30,6 +30,30 @@ tags:
 
 本章将作者分为**理想主义者**（正面结局）、**悲观主义者**（负面结局）或**反讽主义者**（正负交织的结局，表达生活的双重本质）。麦基警告不要**说教主义**——通过狂热的布道扼杀艺术——并总结说艺术家唯一的责任是讲述真相。
 
+## 章节概念图
+
+```mermaid
+flowchart TB
+  ch[第6章<br/>结构与意义]
+  ae((审美情感))
+  prem[前提]
+  ci[主控思想]
+  dialectic[正面思想vs反面思想]
+  dramatize([戏剧化，不要解释])
+  truth([讲述真相])
+  ch --> ae
+  ch --> prem
+  ch --> ci
+  ch --> dialectic
+  ch --> dramatize
+  ch --> truth
+  prem -->|展开为| ci
+  dialectic -->|论证至| ci
+  dramatize -->|证明| ci
+  ci -->|被检验于| truth
+  ci -->|呈递| ae
+```
+
 ## 引入的核心概念
 
 - **[[aesthetic-emotion]]**（审美情感）— 思想与感情的同步交汇；艺术能提供而生活无法提供的东西

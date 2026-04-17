@@ -24,6 +24,19 @@ tags:
 
 A Sequence is a series of scenes—generally two to five—that culminates with greater impact than any previous scene. The capping scene of a sequence delivers a more powerful, determinant change than individual scenes within it.
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self[[Sequence<br/>2–5 scenes]]
+  scene[[Scene]]
+  act[[Act]]
+  values((Story Values))
+  scene -->|builds| self
+  self -->|aggregates into| act
+  self -->|moderate reversal of| values
+```
+
 ## Position in the Story Hierarchy
 
 - **Above:** [[act]] — Sequences build acts; the capping sequence delivers the act climax

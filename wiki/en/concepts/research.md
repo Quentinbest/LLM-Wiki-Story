@@ -23,6 +23,19 @@ tags:
 
 Research is the systematic acquisition of knowledge about a story's world. McKee identifies three methods: **research of memory** (mining personal experience), **research of imagination** (vivid hypothetical exploration of characters' lives), and **research of fact** (library and field study). A story generally needs all three.
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self[Research<br/>memory · imagination · fact]
+  setting[Setting]
+  cl[Creative Limitation]
+  cc[Creative Choices]
+  self -->|populates| setting
+  self -->|deepens| cl
+  self -->|fuels| cc
+```
+
 ## McKee's Argument
 
 Research is the key to winning the war on cliché. The writer who lacks deep knowledge of the story's world will inevitably recycle material from other works. More practically, research is also the cure for writer's block: "You're blocked because you have nothing to say. Your talent didn't abandon you… you can't kill your talent, but you can starve it into a coma through ignorance."

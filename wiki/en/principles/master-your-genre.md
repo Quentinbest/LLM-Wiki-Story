@@ -24,6 +24,21 @@ tags:
 
 You must not only respect but master your genre and its conventions. Never assume that because you've seen films in your genre you know it — this is like assuming you could compose a symphony because you've heard all nine of Beethoven's. To anticipate the anticipations of the audience, you must master your genre and its conventions.
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self([Master Your Genre])
+  genre{{Genre}}
+  conv[Genre Conventions]
+  limit[Creative Limitation]
+  audience((Audience Expectation))
+  self -->|requires command of| genre
+  self -->|study of| conv
+  self <-->|source of| limit
+  self -.anticipates.-> audience
+```
+
 ## McKee's Reasoning
 
 The audience arrives at every film as a genre expert, positioned by marketing and a lifetime of moviegoing to expect specific patterns. If the writer's genre knowledge doesn't surpass the audience's, the audience will always be one step ahead — and boredom follows. The writer must study genre systematically, not casually.

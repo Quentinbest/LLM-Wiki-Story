@@ -31,6 +31,21 @@ tags:
 
 麦基称之为"大情节"（Archplot）——Arch（发音如archangel中的"ark"）取辞典义"在同类中卓然而出"。
 
+## 概念关系图
+
+```mermaid
+flowchart LR
+  self[[大情节<br/>经典设计]]
+  mini[[小情节]]
+  anti[[反情节]]
+  triangle{{故事三角}}
+  climax[[故事高潮]]
+  triangle -->|顶端| self
+  self <-->|对比| mini
+  self <-->|反转| anti
+  self -->|封闭于| climax
+```
+
 ## 在故事层级中的位置
 
 - **位置：** 在[[the-story-triangle|故事三角]]的顶端

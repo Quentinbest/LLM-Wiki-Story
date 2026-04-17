@@ -23,6 +23,17 @@ tags:
 
 Story is metaphor for life. A storyteller is a life poet, an artist who transforms day-to-day living—inner life and outer life, dream and actuality—into a poem whose rhyme scheme is events rather than words. A story says: "Life is like *this!*"
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self[Story as Metaphor]
+  sf[Story Form]
+  sv((Story Values))
+  self -->|realized through| sf
+  self -->|charged with| sv
+```
+
 ## McKee's Argument
 
 McKee argues that story occupies a unique position between raw fact and pure abstraction. Writers of "portraiture" (slice-of-life realism) mistake verisimilitude for truth, believing that precise observation of daily facts equals truth-telling. But "fact, no matter how minutely observed, is truth with a small 't.' Big 'T' Truth is located behind, beyond, inside, below the surface of things." Writers of "spectacle" mistake kinesis for entertainment, hoping dazzling visuals will excite regardless of story.

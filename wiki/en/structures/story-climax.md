@@ -4,13 +4,16 @@ type: structure
 lang: en
 chapter_refs:
   - 2
+  - 13
 related:
   - "[[act]]"
-  - "[[story-values]]"
-  - "[[archplot]]"
+  - "[[crisis]]"
+  - "[[resolution]]"
+  - "[[key-image]]"
 film_examples:
-  - "[[tender-mercies]]"
-last_updated: 2026-04-07
+  - "[[star-wars]]"
+  - "[[thelma-louise]]"
+last_updated: 2026-04-17
 tags:
   - structure
   - story-hierarchy
@@ -22,36 +25,54 @@ tags:
 
 ## Definition
 
-A Story Climax is the climax of the last act that brings about absolute and irreversible change. When you compare the value-charged situation at the beginning of the story to the end, you see the arc of the film—the great sweep of change that takes life from one condition to a changed condition that cannot be undone.
+A Story Climax is the crowning event of the last act that brings about absolute and irreversible change. It is the action that explodes out of [[crisis]], answers the story's deepest question, and seals the final value shift of the work.
+
+## Concept Map
+
+```mermaid
+flowchart LR
+  self[[Story Climax<br/>irreversible]]
+  act[[Act]]
+  crisis[Crisis]
+  res[Resolution]
+  key[Key Image]
+  act -->|builds to| self
+  crisis -->|erupts into| self
+  self --> res
+  self --> key
+```
 
 ## Position in the Story Hierarchy
 
-- **Above:** None — the Story Climax is the apex of the entire story structure
-- **Below:** [[act]] — Acts build toward the Story Climax through escalating major reversals
-- **This level:** The final, absolute, irreversible change in the protagonist's life
+- **Above:** None — it is the apex of the whole design.
+- **Below:** [[act]] — Acts build toward it through escalating reversals.
+- **This level:** The final action that expresses the story's irreversible meaning.
 
 ## McKee's Argument
 
-While scene changes can be reversed (lovers reunite), sequence changes can be reversed (she loses the job), and even act climaxes can be reversed (E.T. dies and comes back), the story climax cannot be undone. It represents the total arc—the fundamental, permanent transformation. Every structural level builds toward this moment.
+Chapter 2 defines story climax structurally; Chapter 13 sharpens it aesthetically. The story climax is not merely the loudest moment but the most meaningful one. It may be outwardly huge or outwardly quiet, but it must complete the story's final value swing and feel irreversible in retrospect.
 
 ## How It Works
 
-The story climax is not simply the most exciting moment but the moment of deepest, most permanent change. Compare the protagonist's value-charged condition at FADE IN to FADE OUT—the distance between these two states is the story's arc. In McKee's corporate woman example: from hardworking/honest to ruthless/corrupt—absolute, irreversible change.
+The climax usually follows a moment of decision: the protagonist confronts a [[dilemma]], chooses, acts, and the result cannot be taken back. Great climaxes often contain one last internal turn and may crystallize in a [[key-image]] that pulls the whole story together.
 
 ## Film Examples
 
-- **[[tender-mercies]]** — Sledge's quiet transformation from a man drowning in meaninglessness to one who has woven together a meaningful life. Irreversible inner change.
+- **[[star-wars]]** — Luke's final attack turns choice into irreversible victory.
+- **[[thelma-louise]]** — The leap closes the story with absolute finality.
+- **[[ordinary-people]]** — A quiet domestic action can still be overwhelming when it resolves meaning.
 
 ## Relationship to Other Concepts
 
-- [[act]] — The story climax is the climax of the final act
-- [[story-values]] — The story climax shows the total arc of value change across the entire story
-- [[archplot]] — Classical design demands a closed story climax with absolute, irreversible change
+- [[act]] — The climax crowns the final act.
+- [[crisis]] — The climactic action normally erupts out of the crisis decision.
+- [[resolution]] — Any remaining material follows it.
+- [[key-image]] — The final image often concentrates its meaning.
 
 ## Common Mistakes
 
-Ending with reversible change—the protagonist could simply go back to how things were. Or ending without sufficient contrast between the opening and closing value states, resulting in no perceptible arc.
+Common failures include mistaking spectacle for climax, ending on reversible change, or explaining the climax in dialogue rather than letting action carry meaning.
 
 ## Sources
 
-- *Story* Chapter 2, "The Structure Spectrum"
+- *Story* Chapters 2 and 13

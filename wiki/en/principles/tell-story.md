@@ -22,6 +22,19 @@ tags:
 
 Story design—not dialogue, not description, not cinematography—is the writer's primary creative task. Of the total creative effort in a finished work, 75 percent or more goes into designing story. "The sign on the door doesn't read 'Dialogue Department' or 'Description Department.' It reads 'Story Department.'"
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self([Tell Story])
+  form[Story Form]
+  craft([Craft Maximizes Talent])
+  metaphor[Story as Metaphor]
+  self -->|demands mastery of| form
+  self <-->|paired with| craft
+  self -->|delivered as| metaphor
+```
+
 ## McKee's Reasoning
 
 A good story makes a good film possible; failure to make the story work virtually guarantees disaster. It's surprisingly rare to find a beautifully crafted story with bad dialogue or dull description—the better the storytelling, the more vivid the images, the sharper the dialogue. Conversely, lack of progression, false motivation, redundant characters, empty subtext, and holes are the root causes of bland text. "Literary talent is not enough."

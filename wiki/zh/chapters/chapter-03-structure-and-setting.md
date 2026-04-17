@@ -29,6 +29,30 @@ tags:
 
 麦基接着开出三种[[research|研究]]方法——记忆、想象和事实——作为作者对抗陈词滥调和写作障碍的武器。最后，他描述了[[creative-choices|创作选择]]的纪律：产出远超所需的素材（十比一，甚至二十比一），然后只挑选最好的，其余全部舍弃。天才不仅是创造力，更是品味和判断力——敢于销毁平庸之作。
 
+## 章节概念图
+
+```mermaid
+flowchart TB
+  ch[第3章<br/>结构与背景]
+  setting[背景]
+  limit[创作限制]
+  research[研究]
+  choices[创作选择]
+  war([对抗陈词滥调])
+  obey([故事服从自身世界])
+  ch --> setting
+  ch --> limit
+  ch --> research
+  ch --> choices
+  ch --> war
+  ch --> obey
+  setting -->|四个维度| limit
+  limit -->|促成| choices
+  research -->|滋养对其的认知| setting
+  war -.通过其治愈.-> research
+  obey -->|执行| setting
+```
+
 ## 引入的核心概念
 
 - **[[setting]]**（故事背景）— 故事的四维世界：时代、时长、地点和冲突层面

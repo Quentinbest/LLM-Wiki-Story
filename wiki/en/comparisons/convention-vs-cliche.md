@@ -20,6 +20,17 @@ tags:
 
 One of McKee's most critical distinctions: convention and cliché are not the same thing. Confusing them leads writers either to reject genre conventions (producing formless work) or to reproduce tired patterns (producing boring work). Understanding the difference is essential to writing within genre with originality.
 
+```mermaid
+flowchart LR
+  gc[Genre Conventions]
+  wc([War on Cliche])
+  conv[Convention]
+  cl[Cliche]
+  gc --> conv
+  wc --> cl
+  conv -.fresh execution avoids.-> cl
+```
+
 ## Key Differences
 
 | Dimension | Convention | Cliché |

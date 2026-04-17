@@ -28,6 +28,19 @@ tags:
 
 小情节（Miniplot）意味着编剧从经典设计的元素出发，然后加以缩减——收缩、压缩、修剪或截短[[archplot|大情节]]的突出特征。小情节不等于"没有情节"——其故事必须像大情节一样被精妙地执行。
 
+## 概念关系图
+
+```mermaid
+flowchart LR
+  self[[小情节<br/>极简主义]]
+  arch[[大情节]]
+  anti[[反情节]]
+  triangle{{故事三角}}
+  triangle -->|左下角| self
+  self <-->|缩减| arch
+  self <-->|相异| anti
+```
+
 ## 在故事层级中的位置
 
 - **位置：** [[the-story-triangle|故事三角]]的左下角

@@ -25,6 +25,21 @@ A Story Event creates meaningful change in the life situation of a character tha
 
 McKee builds this definition in three stages: (1) An event means *change*; (2) To make change meaningful, it must happen to a character and be expressed in terms of a [[story-values|value]]; (3) To be a *story* event, that change must be *achieved through conflict*, not coincidence.
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self[Story Event]
+  sv((Story Values))
+  scene[[Scene]]
+  beat[[Beat]]
+  structure[[Structure]]
+  self -->|turns| sv
+  beat -->|aggregates into| self
+  self -->|composes| scene
+  self -->|builds| structure
+```
+
 ## McKee's Argument
 
 Not all change qualifies as a story event. Rain falling on dry streets is change, but trivial. Rain in drought-stricken East Africa involves a value (life/death) and is meaningful—but if it falls by coincidence, it's not yet a story event. Only when a character struggles through inner, personal, social, and physical conflict to produce that change does it become a true story event. McKee uses *The Rainmaker* to illustrate the complete definition.

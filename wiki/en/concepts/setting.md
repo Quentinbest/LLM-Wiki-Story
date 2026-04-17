@@ -24,6 +24,19 @@ tags:
 
 A story's setting is four-dimensional: **Period** (place in time), **Duration** (length through time), **Location** (place in space), and **Level of Conflict** (position on the hierarchy of human struggles — from inner/unconscious conflicts up through personal, institutional, and environmental struggles).
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self[Setting<br/>4 dimensions]
+  structure[[Structure]]
+  cl[Creative Limitation]
+  genre[Genre]
+  self -->|constrains| structure
+  self -->|first| cl
+  self -->|positions| genre
+```
+
 ## McKee's Argument
 
 Setting is not mere backdrop — it is the foundation that determines what events are possible within a story. Each fictional world creates its own cosmology, its own "rules" for how and why things happen. Once these causal principles are established, the writer is bound by a contract with the audience: break the internal laws and the audience rejects the work as illogical.

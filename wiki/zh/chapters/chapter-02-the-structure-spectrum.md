@@ -33,6 +33,36 @@ tags:
 
 本章的后半部分引入了[[the-story-triangle|故事三角]]，麦基描绘所有可能的故事设计的地图。三角形顶端是[[archplot|大情节]]（经典设计）：主动的主人公、外部冲突、因果关系、连续时间、一致的现实、封闭式结局。左下角是[[miniplot|小情节]]（极简主义）：缩减经典元素——开放式结局、内在冲突、被动主人公、多主人公。右下角是[[antiplot|反情节]]（反结构）：颠覆经典元素——巧合、非线性时间、不一致的现实。麦基分析了这三种形式在七个形式维度上的差异，并讨论了故事设计的政治学、故事远离大情节后观众的萎缩，以及[[master-classical-form|必须先掌握经典形式]]再尝试极简主义或反结构的紧迫性。
 
+## 章节概念图
+
+```mermaid
+flowchart TB
+  ch[第2章<br/>结构谱系]
+  structure[结构]
+  event[故事事件]
+  values((故事价值))
+  triangle{{故事三角}}
+  arch[[大情节]]
+  mini[[小情节]]
+  anti[[反情节]]
+  beat[[节拍]]
+  scene[[场景]]
+  seq[[序列]]
+  act[[幕]]
+  climax[[故事高潮]]
+  ch --> structure
+  structure -->|由其构成| event
+  event -->|转变| values
+  beat --> scene --> seq --> act --> climax
+  structure -.层级.-> beat
+  ch --> triangle
+  triangle --> arch
+  triangle --> mini
+  triangle --> anti
+  arch <-->|被其缩减| mini
+  arch <-->|被其颠覆| anti
+```
+
 ## 引入的核心概念
 
 - **[[structure]]**（结构）— 从人物生活故事中选取事件，编排成战略序列以唤起情感并表达生活观

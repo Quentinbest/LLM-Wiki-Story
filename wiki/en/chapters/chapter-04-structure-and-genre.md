@@ -28,6 +28,27 @@ Genre conventions — the specific settings, roles, events, and values that defi
 
 The chapter examines how genres evolve with society (the Western, the Psycho-Drama, the Love Story each transformed across decades), how genres can be mixed to create new resonances, and how mastery of genre provides the endurance needed for the long marathon of screenwriting. McKee concludes that there is "no necessary contradiction between art and popular success" — Hitchcock proved this definitively.
 
+## Chapter Concept Map
+
+```mermaid
+flowchart TB
+  ch[Chapter 4<br/>Structure and Genre]
+  genre{{Genre}}
+  conv[Genre Conventions]
+  mix[Mixing Genres]
+  limit[Creative Limitation]
+  master([Master Your Genre])
+  ch --> genre
+  ch --> conv
+  ch --> mix
+  ch --> limit
+  ch --> master
+  genre -->|defined by| conv
+  conv <-->|kind of| limit
+  genre -->|combined via| mix
+  master -->|requires command of| genre
+```
+
 ## Key Concepts Introduced
 
 - **[[genre]]** — The 25 film genres and their subgenres, classified by subject, setting, role, event, and values

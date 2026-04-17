@@ -19,6 +19,18 @@ tags:
 
 McKee distinguishes two essential but unrelated talents that writers need. Having a mountain of one does not guarantee a grain of the other.
 
+```mermaid
+flowchart LR
+  craft([Craft Maximizes Talent])
+  tell([Tell Story])
+  lt[Literary Talent]
+  st[Story Talent]
+  craft --> lt
+  craft --> st
+  tell --> st
+  lt -.expresses.-> st
+```
+
 ## Key Differences
 
 | Dimension | Literary Talent | Story Talent |

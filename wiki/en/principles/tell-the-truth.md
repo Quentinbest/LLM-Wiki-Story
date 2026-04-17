@@ -22,6 +22,19 @@ tags:
 
 We have no responsibility to cure social ills, uplift spirits, or even express our inner being. We have only one responsibility: to tell the truth. Study your Controlling Idea — if you don't believe in its meaning, toss it and start again. If you do, do everything possible to get your work into the world. "In a world of lies and liars, an honest work of art is always an act of social responsibility."
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self([Tell the Truth])
+  ci[Controlling Idea]
+  ae((Aesthetic Emotion))
+  belief((Audience Belief))
+  self -->|tests| ci
+  self -->|conveyed via| ae
+  ae -->|compels| belief
+```
+
 ## McKee's Reasoning
 
 Every effective story sends a charged idea into the audience, compelling belief through the seductive power of aesthetic emotion. Plato wanted to exile storytellers precisely because they conceal ideas inside the emotions of art — felt ideas are ideas nonetheless, and their persuasive power is enormous. Writers are dangerous people, and Plato was right about that.

@@ -23,6 +23,19 @@ tags:
 
 Creativity is not one-to-one — devising exactly the events needed and penciling in dialogue. It is five to one, ten to one, even twenty to one. The craft demands inventing far more material than can possibly be used, then making astute selections of quality from this quantity. **Creativity means creative choices of inclusion and exclusion.**
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self[Creative Choices]
+  cl[Creative Limitation]
+  research[Research]
+  setting[Setting]
+  research -->|supplies abundance to| self
+  setting -->|frames| self
+  cl -->|forces| self
+```
+
 ## McKee's Argument
 
 McKee argues that first ideas are almost always clichés. "Inspiration" is typically the first notion grabbed from the top of your head — and sitting there is every film you've seen and novel you've read, offering recycled material to pluck. True inspiration comes from a deeper source, accessed only through disciplined overproduction.

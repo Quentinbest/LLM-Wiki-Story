@@ -26,6 +26,21 @@ tags:
 
 Progressions build by moving dynamically between the positive and negative charges of the values at stake in the story. The positive Idea and its negative Counter-Idea argue back and forth, sequence by sequence, creating a dramatized dialectical debate. At climax, one wins and becomes the story's [[controlling-idea|Controlling Idea]].
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self[Idea vs Counter-Idea]
+  ci[[Controlling Idea]]
+  sv((Story Values))
+  climax[[Story Climax]]
+  structure[[Structure]]
+  sv -->|polarized into| self
+  self -->|builds to| climax
+  self -->|resolves into| ci
+  structure -->|embodies| self
+```
+
 ## McKee's Argument
 
 From the moment of inspiration, the writer builds a bridge from Premise to Controlling Idea. The events echo contradictory voices of one theme — positive and negative assertions of the same idea contest through the film, building in intensity, until at Crisis they collide head-on. Out of this collision rises the Story Climax, in which one idea prevails.

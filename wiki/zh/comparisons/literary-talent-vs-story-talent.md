@@ -19,6 +19,18 @@ tags:
 
 麦基区分了编剧需要的两种本质上不同且互不相关的天赋。一种天赋的丰沛并不保证另一种的存在。
 
+```mermaid
+flowchart LR
+  craft([技艺最大化才华])
+  tell([讲故事])
+  lt[文学天赋]
+  st[故事天赋]
+  craft --> lt
+  craft --> st
+  tell --> st
+  lt -.表达.-> st
+```
+
 ## 核心差异
 
 | 维度 | 文学天赋（Literary Talent） | 故事天赋（Story Talent） |

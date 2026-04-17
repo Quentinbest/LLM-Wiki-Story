@@ -27,6 +27,26 @@ Characterization is the mask — age, appearance, education, occupation, persona
 
 The finest storytelling goes further: it doesn't just reveal true character but **arcs** it — changes the inner nature for better or worse over the course of the telling. McKee traces this five-step pattern through Hamlet and Frank Galvin in [[the-verdict|The Verdict]]. Finally, he argues that the climax of the last act is the writer's supreme task — 75% of all creative labor goes into designing it — because "movies are about their last twenty minutes."
 
+## Chapter Concept Map
+
+```mermaid
+flowchart TB
+  ch[Chapter 5<br/>Structure and Character]
+  charz[Characterization vs True Character]
+  arc[Character Arc]
+  reveal[Character Revelation]
+  sic([Structure Is Character])
+  pressure((Pressure))
+  ch --> charz
+  ch --> arc
+  ch --> reveal
+  ch --> sic
+  pressure -->|exposes| reveal
+  reveal -->|deepened into| arc
+  sic -->|fuses| charz
+  sic -->|drives| arc
+```
+
 ## Key Concepts Introduced
 
 - **[[characterization-vs-true-character]]** — The fundamental distinction: observable traits vs. choices under pressure

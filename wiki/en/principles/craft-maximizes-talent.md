@@ -22,6 +22,19 @@ tags:
 
 Talent without craft is like fuel without an engine. It burns wildly but accomplishes nothing. Only by using everything you know about the craft of storytelling can you make your talent forge story.
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self([Craft Maximizes Talent])
+  tell([Tell Story])
+  form[Story Form]
+  talent[Literary vs Story Talent]
+  self <-->|paired with| tell
+  self -->|expressed through| form
+  self -.frees.-> talent
+```
+
 ## McKee's Reasoning
 
 Craft is not mechanics or gimmicks—it is "the concert of techniques by which we create a conspiracy of interest between ourselves and the audience." It is the sum total of all means used to draw the audience into deep involvement, hold that involvement, and reward it with a moving and meaningful experience.

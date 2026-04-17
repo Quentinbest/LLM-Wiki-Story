@@ -9,10 +9,16 @@ concepts_illustrated:
   - "[[genre-conventions]]"
   - "[[genre]]"
   - "[[setting]]"
+  - "[[the-gap]]"
+  - "[[backstory]]"
+  - "[[story-climax]]"
 chapters_referenced_in:
   - 3
   - 4
-last_updated: 2026-04-09
+  - 7
+  - 8
+  - 9
+last_updated: 2026-04-15
 tags:
   - entity
   - crime
@@ -37,11 +43,16 @@ In Chapter 4, *Chinatown* is McKee's central example of genre reinvention. In ev
 
 McKee calls it a classic — "reexperienced with pleasure because it can be reinterpreted through the decades, because in it truth and humanity are so abundant that each new generation finds itself mirrored in the story."
 
+In Chapter 7, *Chinatown*'s Act Two climax (Gittes's confrontation with Evelyn after slapping the truth — "my sister... my daughter" — out of her) anchors McKee's exposition of [[the-gap]]: the chasm opened between Gittes's expectation and the incestuous reality he uncovers. Gittes's prior failure "in Chinatown" is the governing [[backstory]] that gives the [[story-climax]] its full tragic weight in Chapters 8 and 9.
+
 ## Concepts Illustrated
 
 - **[[genre-conventions]]** — Broke the Murder Mystery's most fundamental convention (criminal punished) at the precise historical moment when society could accept it
 - **[[genre]]** — A master-class in genre mixing: Crime/Murder Mystery + Film Noir + Social Drama + Disillusionment Plot
 - **[[setting]]** — 1930s Los Angeles rendered with deep specificity and commanding knowledge
+- **[[the-gap]]** — The Act Two climax opens the defining gap between Gittes's expectation and the appalling reality
+- **[[backstory]]** — Gittes's past failure "in Chinatown" as the silent weight behind every present choice
+- **[[story-climax]]** — The irreversible tragic reversal delivered without mercy
 
 ## Key Scenes Analyzed
 

@@ -32,6 +32,17 @@ This distinction resolves the "plot vs. character" debate. The confusion exists 
 
 Pressure is essential. Choices made when nothing is at risk mean little. If a character tells the truth when lying would gain nothing, the moment is trivial. But if the same character insists on truth when a lie would save his life, we sense honesty is at his core.
 
+```mermaid
+flowchart LR
+  char[Characterization]
+  true[True Character]
+  struct[Structure]
+  arc[Character Arc]
+  char --> true
+  struct --> true
+  true --> arc
+```
+
 ## How It Works
 
 McKee's burning bus thought experiment: a housekeeper (illegal alien, shy, sole family support) and a neurosurgeon (brilliant, wealthy) face a school bus in flames. Each escalating choice — stop or drive by? Call for help or rush in? Save one last child... which one? — strips away the characterization and reveals (or contradicts) what lies beneath. At the deepest level, even unconscious prejudices of gender or ethnicity may surface while performing acts of saintlike courage.

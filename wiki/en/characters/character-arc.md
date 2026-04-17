@@ -4,14 +4,17 @@ type: concept
 lang: en
 chapter_refs:
   - 5
+  - 13
 related:
   - "[[characterization-vs-true-character]]"
   - "[[character-revelation]]"
   - "[[structure]]"
   - "[[story-climax]]"
+  - "[[crisis]]"
 film_examples:
   - "[[the-verdict]]"
-last_updated: 2026-04-10
+  - "[[kramer-vs-kramer]]"
+last_updated: 2026-04-17
 tags:
   - concept
   - character
@@ -35,18 +38,33 @@ McKee traces a five-step pattern of character arc through the history of fiction
 4. **Escalating pressure forces harder choices** — Greater and greater dilemmas demand more difficult, risk-taking decisions.
 5. **The climax profoundly changes the character** — By the story's end, these cumulative choices have transformed the character's inner nature.
 
-The climax is the critical moment: 75% of all creative labor goes into designing the last act because the story's ultimate event is the writer's ultimate task. "Thou shalt save the best for last."
+The climax is the critical moment, and Chapter 13 clarifies why: the arc culminates not simply in action but in a [[crisis]] decision. The last choice under maximum pressure reveals whether the character has changed, failed to change, or changed in an ironic direction.
+
+```mermaid
+flowchart LR
+  char[Characterization]
+  true[True Character]
+  pressure[Pressure]
+  crisis[Crisis]
+  climax[[Story Climax]]
+  char --> true
+  true --> pressure
+  pressure --> crisis
+  crisis --> climax
+```
 
 ## How It Works
 
 - The arc must be *earned* through progressively building pressure — not imposed arbitrarily
 - Structure and character are interlocked: change one, you change the other
 - The relative complexity of character must match the genre — Action/Adventure demands simplicity, Education/Redemption Plots demand depth
-- Characterization may need to be adjusted to make the climactic choice credible (e.g., changing a protagonist's age to make a desert chase physically plausible)
+- Characterization may need to be adjusted to make the climactic choice credible
+- The deepest test of arc is the nature of the final dilemma
 
 ## Film Examples
 
 - **[[the-verdict]]** — Frank Galvin: corrupt drunk → sees a chance for salvation → fights the Catholic Church and the establishment → resurrected as a sober, ethical attorney. The case doesn't just win justice for his client; it redeems his soul.
+- **[[kramer-vs-kramer]]** — Ted's arc culminates when he sacrifices his own victory to protect his son.
 - **Hamlet** — Melancholy prince → cautious avenger battling rash immaturity → escalating moral dilemmas → peaceful wisdom: "The rest is silence."
 - **Greed** — The Mojave Desert climax: ultimate choices profoundly delineate character, with the dying hero handcuffing himself to his killer in a final act of will.
 
@@ -55,6 +73,7 @@ The climax is the critical moment: 75% of all creative labor goes into designing
 - [[characterization-vs-true-character]] — Arc presupposes the distinction: it's the *true character* that changes, not just the surface traits
 - [[character-revelation]] — Revelation is a prerequisite for arc: you must see the true character before you can watch it change
 - [[story-climax]] — The climax is where the arc culminates; it's the most important scene in the story
+- [[crisis]] — The crisis decision is often the clearest expression of the finished arc
 
 ## Common Mistakes
 
@@ -65,4 +84,4 @@ The climax is the critical moment: 75% of all creative labor goes into designing
 
 ## Sources
 
-- *Story* Chapter 5, "Character Arc" and "Climax and Character"
+- *Story* Chapters 5 and 13

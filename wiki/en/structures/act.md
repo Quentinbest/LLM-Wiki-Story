@@ -24,6 +24,19 @@ tags:
 
 An Act is a series of sequences that peaks in a climactic scene which causes a major reversal of values, more powerful in its impact than any previous sequence or scene.
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self[[Act]]
+  sequence[[Sequence]]
+  climax[[Story Climax]]
+  values((Story Values))
+  sequence -->|builds| self
+  self -->|climaxes in| climax
+  self -->|major turn of| values
+```
+
 ## Position in the Story Hierarchy
 
 - **Above:** [[story-climax]] — Acts build toward the Story Climax; the last act's climax is the Story Climax

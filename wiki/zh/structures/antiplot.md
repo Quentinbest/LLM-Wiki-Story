@@ -26,6 +26,19 @@ tags:
 
 反情节（Antiplot）是反小说（Nouveau Roman）和荒诞派戏剧（Theatre of the Absurd）在电影中的对应物。它不是缩减经典设计，而是颠覆它，反转传统形式以利用甚至嘲弄形式原则本身的概念。反情节的创作者很少对低调感兴趣；相反，他们的电影倾向于铺张和自觉的夸张。
 
+## 概念关系图
+
+```mermaid
+flowchart LR
+  self[[反情节<br/>反结构]]
+  arch[[大情节]]
+  mini[[小情节]]
+  triangle{{故事三角}}
+  triangle -->|右下角| self
+  self <-->|颠覆| arch
+  self <-->|相异| mini
+```
+
 ## 在故事层级中的位置
 
 - **位置：** [[the-story-triangle|故事三角]]的右下角

@@ -26,6 +26,19 @@ tags:
 
 Miniplot means the writer begins with the elements of Classical Design but then reduces them—shrinking, compressing, trimming, or truncating the prominent features of the [[archplot]]. Miniplot does not mean "no plot"—its story must be as beautifully executed as an Archplot.
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self[[Miniplot<br/>Minimalism]]
+  arch[[Archplot]]
+  anti[[Antiplot]]
+  triangle{{Story Triangle}}
+  triangle -->|lower-left| self
+  self <-->|reduces| arch
+  self <-->|distinct from| anti
+```
+
 ## Position in the Story Hierarchy
 
 - **Position:** Lower-left corner of [[the-story-triangle]]

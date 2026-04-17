@@ -24,6 +24,19 @@ tags:
 
 Antiplot is the cinema counterpart to the antinovel and Theatre of the Absurd. It doesn't reduce the Classical but reverses it, contradicting traditional forms to exploit, perhaps ridicule, the very idea of formal principles. The Antiplot-maker is rarely interested in understatement; rather, films tend toward extravagance and self-conscious overstatement.
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self[[Antiplot<br/>Anti-structure]]
+  arch[[Archplot]]
+  mini[[Miniplot]]
+  triangle{{Story Triangle}}
+  triangle -->|lower-right| self
+  self <-->|inverts| arch
+  self <-->|distinct from| mini
+```
+
 ## Position in the Story Hierarchy
 
 - **Position:** Lower-right corner of [[the-story-triangle]]

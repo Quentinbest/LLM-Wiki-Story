@@ -27,6 +27,23 @@ tags:
 
 Genre is a system for classifying stories by shared elements — subject, setting, role, event, and values. McKee catalogs 25 film genres, ranging from tightly constrained forms (Crime, Horror) to expansive supra-genres (Historical Drama, Animation) that can house any number of basic genres within them.
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self[Genre<br/>25 film genres]
+  gc[Genre Conventions]
+  setting[Setting]
+  cl[Creative Limitation]
+  mg[Mixing Genres]
+  triangle{{Story Triangle}}
+  self -->|defined by| gc
+  setting -->|positions| self
+  gc --> cl
+  self -->|combines via| mg
+  self -.mapped on.-> triangle
+```
+
 ## McKee's Argument
 
 Every writer is a genre writer, whether they admit it or not. The avant-garde notion of writing "outside the genres" is naive — after thousands of years of storytelling, no story is so different that it bears no resemblance to anything else. Even the Art Film is a genre, with its own conventions of Minimalism and Antistructure.

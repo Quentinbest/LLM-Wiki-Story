@@ -23,6 +23,19 @@ tags:
 
 Master storytellers never explain. They dramatize. Storytelling is the creative demonstration of truth — a story is the living proof of an idea, the conversion of idea to action. A story's event structure is the means by which the writer first expresses, then proves his idea — without explanation.
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self([Dramatize, Don't Explain])
+  ci[Controlling Idea]
+  ae((Aesthetic Emotion))
+  dialectic[Idea vs Counter-Idea]
+  self -->|proves| ci
+  self -->|generates| ae
+  self -->|enacts| dialectic
+```
+
 ## McKee's Reasoning
 
 Audiences are rarely interested, and certainly never convinced, when forced to listen to the discussion of ideas. Dialogue is not a platform for the filmmaker's philosophy. A great story authenticates its ideas solely within the dynamics of its events. Failure to express a view of life through the pure, honest consequences of human choice and action is "a creative defeat no amount of clever language can salvage."

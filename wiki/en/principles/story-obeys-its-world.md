@@ -23,6 +23,19 @@ tags:
 
 A story must obey its own internal laws of probability. Each fictional world creates a unique cosmology and its own "rules" for how and why things happen. Once those causal principles are established, they cannot change. The writer's event choices are limited to the possibilities and probabilities within the world he creates.
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self([Story Obeys Its World])
+  setting[Setting]
+  limit[Creative Limitation]
+  laws((Internal Laws))
+  self -->|grounded in| setting
+  self -->|enforces| laws
+  self <-->|source of| limit
+```
+
 ## McKee's Reasoning
 
 From the first image, the audience inspects the fictional universe, sorting the possible from the impossible, the likely from the unlikely. Consciously and unconsciously, audiences want to learn the "laws" of the story's reality. Once they grasp those laws, any violation feels like a breach of contract — the work is rejected as illogical and unconvincing.

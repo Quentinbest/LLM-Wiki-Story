@@ -33,6 +33,36 @@ Central to this hierarchy are [[story-values]]—the positive/negative charges o
 
 The chapter's second half introduces [[the-story-triangle]], McKee's map of all possible story designs. At the apex sits [[archplot]] (Classical Design): an active protagonist, external conflict, causality, continuous time, consistent reality, closed ending. At the lower-left is [[miniplot]] (minimalism): reduced classical elements—open endings, internal conflict, passive protagonists, multiple protagonists. At the lower-right is [[antiplot]] (antistructure): reversed classical elements—coincidence, nonlinear time, inconsistent realities. McKee analyzes seven formal dimensions across which these three forms differ, and discusses the politics of story design, the shrinking audience as stories move away from Archplot, and the imperative to [[master-classical-form]] before attempting minimalism or antistructure.
 
+## Chapter Concept Map
+
+```mermaid
+flowchart TB
+  ch[Chapter 2<br/>The Structure Spectrum]
+  structure[Structure]
+  event[Story Event]
+  values((Story Values))
+  triangle{{Story Triangle}}
+  arch[[Archplot]]
+  mini[[Miniplot]]
+  anti[[Antiplot]]
+  beat[[Beat]]
+  scene[[Scene]]
+  seq[[Sequence]]
+  act[[Act]]
+  climax[[Story Climax]]
+  ch --> structure
+  structure -->|composed of| event
+  event -->|turns| values
+  beat --> scene --> seq --> act --> climax
+  structure -.hierarchy.-> beat
+  ch --> triangle
+  triangle --> arch
+  triangle --> mini
+  triangle --> anti
+  arch <-->|reduced by| mini
+  arch <-->|reversed by| anti
+```
+
 ## Key Concepts Introduced
 
 - **[[structure]]** — A selection of events composed into strategic sequence to arouse emotion and express a view of life

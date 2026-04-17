@@ -29,6 +29,21 @@ Classical Design means a story built around an active protagonist who struggles 
 
 McKee calls this the "Archplot"—Arch (pronounced "ark" as in archangel) in the dictionary sense of "eminent above others of the same kind."
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self[[Archplot<br/>Classical Design]]
+  mini[[Miniplot]]
+  anti[[Antiplot]]
+  triangle{{Story Triangle}}
+  climax[[Story Climax]]
+  triangle -->|apex| self
+  self <-->|contrast| mini
+  self <-->|inversion| anti
+  self -->|closed by| climax
+```
+
 ## Position in the Story Hierarchy
 
 - **Position:** At the apex of [[the-story-triangle]]

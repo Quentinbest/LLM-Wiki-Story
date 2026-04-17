@@ -26,6 +26,23 @@ tags:
 
 The Controlling Idea is a story's irreducible meaning, expressible in a single sentence describing how and why life undergoes change from one condition of existence at the beginning to another at the end. It has two components: **Value** (the positive or negative charge at the last act's climax) plus **Cause** (the chief reason that value has changed to its final state).
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self[[Controlling Idea<br/>Value + Cause]]
+  premise[Premise]
+  ae[Aesthetic Emotion]
+  sv((Story Values))
+  climax[[Story Climax]]
+  ici[Idea vs Counter-Idea]
+  premise -->|inspires| self
+  ici -->|dialectic yields| self
+  sv -->|first half of| self
+  self -->|expressed at| climax
+  self -->|delivered as| ae
+```
+
 ## McKee's Argument
 
 "Theme" is too vague. "Poverty," "war," and "love" are not themes — they relate to setting or genre. A true theme is a sentence, not a word. McKee prefers "Controlling Idea" because it names the root idea *and* implies its function: it shapes strategic choices, guiding what is appropriate or inappropriate in the story.

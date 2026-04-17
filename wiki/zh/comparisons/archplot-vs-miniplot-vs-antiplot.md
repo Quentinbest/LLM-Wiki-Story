@@ -20,6 +20,19 @@ tags:
 
 麦基的[[the-story-triangle|故事三角]]映射了故事设计的三种基本方法。理解它们之间的差异——以及共同点——对每一个编剧都至关重要。
 
+```mermaid
+flowchart TB
+  tri{{故事三角}}
+  a[[大情节]]
+  m[[小情节]]
+  an[[反情节]]
+  tri --> a
+  tri --> m
+  tri --> an
+  m -.削减自.-> a
+  an -.反转自.-> a
+```
+
 ## 核心差异
 
 | 维度 | [[archplot\|大情节]] | [[miniplot\|小情节]] | [[antiplot\|反情节]] |

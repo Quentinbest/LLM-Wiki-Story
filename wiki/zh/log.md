@@ -124,3 +124,46 @@ lang: zh
 - 新建页面：
   - `overview.md`（中 + 英）
 - 备注：第1-6章麦基框架的全书综述。梳理了从诊断（第1章）经由工具包（第2章）、世界（第3章）、契约（第4章）、引擎（第5章）到目的地（第6章）的论证弧线。识别了浮现的分层模型和框架中的五组关键张力。
+
+## [2026-04-11] 规范 | 强制要求概念关系图
+- 更新文件：`CLAUDE.md`
+- 备注：新增"关键规则#7"以及全新的"概念关系图"章节，要求每一个概念、结构、原则、章节摘要、对比和综述页面都必须包含一个 Mermaid 图。规定了节点形状惯例、边的标注规则、双语图拓扑必须一致，以及针对图缺失/漂移/双语不匹配的 LINT 检查。
+
+## [2026-04-11] 充实 | 为所有现有页面补充关系图
+- 更新页面：
+  - 全部 17 个英文概念页及其 17 个中文对应页（`concepts/*.md`）
+  - 全部 8 个英文结构页及其 8 个中文对应页（`structures/*.md`）
+  - 全部 10 个英文原则页及其 10 个中文对应页（`principles/*.md`）
+  - 全部 6 个英文章节摘要页及其 6 个中文对应页（`chapters/chapter-0[1-6]-*.md`）
+  - `overview.md`（中 + 英）— 新增贯穿第1-6章的全书概念图
+- 新建页面：无
+- 标记矛盾：无
+- 备注：为遵守新的 CLAUDE.md 规范，回填了整个维基的 Mermaid 概念关系图。每张图都使用规定的节点形状（矩形=概念，双矩形=结构，六边形=分类法，体育场形=原则，圆形=价值/抽象）。中英版本的图拓扑完全一致，仅标签翻译。共编辑 122 个页面（每个语言树各 61 个）。
+
+## [2026-04-15] 收录 | 第7章 — 故事的实质
+- 来源：`sources/book/7THE_SUBSTANCE_OF_STORY.md`
+- 新建页面：`chapters/chapter-07-the-substance-of-story.md`、`concepts/the-gap.md`、`concepts/risk.md`、`concepts/action-vs-activity.md`、`concepts/levels-of-conflict.md`、`concepts/minimum-conservative-action.md`、`characters/protagonist.md`、`principles/writing-from-the-inside-out.md`
+- 更新页面：`entities/chinatown.md`（第二幕高潮作为鸿沟与前史分量的锚点案例）
+- 标记矛盾：无
+- 备注：鸿沟被确立为故事的生成单元——每次行动开启之，每次复杂化加宽之。主人公独立成页；四项检验（意志力、自觉/潜意识欲望、能力、共情）现成专属参考。
+
+## [2026-04-15] 收录 | 第8章 — 激励事件
+- 来源：`sources/book/8THE_INCITING_INCIDENT.md`
+- 新建页面：`chapters/chapter-08-the-inciting-incident.md`、`concepts/inciting-incident.md`、`concepts/spine.md`、`concepts/object-of-desire.md`、`concepts/the-quest.md`、`concepts/major-dramatic-question.md`、`concepts/obligatory-scene.md`、`concepts/foreshadowing.md`、`concepts/authenticity.md`、`concepts/cast-design.md`、`concepts/backstory.md`、`entities/kramer-vs-kramer.md`、`entities/jaws.md`、`entities/rocky.md`、`entities/ordinary-people.md`
+- 更新页面：除第7章的实体更新外无
+- 标记矛盾：无
+- 备注：第8章安装了把前提转化为引擎的机器：激励事件→欲望对象→故事脊椎→主要戏剧问题→必备场景。人物阵容设计与可信度构成栖息地。铺垫作为"铺设—回报"的基础设施浮现。
+
+## [2026-04-15] 收录 | 第9章 — 幕的设计
+- 来源：`sources/book/9ACT_DESIGN.md`
+- 新建页面：`chapters/chapter-09-act-design.md`、`concepts/progressive-complications.md`、`concepts/points-of-no-return.md`、`concepts/false-ending.md`、`concepts/act-rhythm.md`、`structures/subplot.md`、`principles/law-of-conflict.md`、`comparisons/complication-vs-complexity.md`、`entities/casablanca.md`
+- 更新页面：`wiki/en/index.md`、`wiki/zh/index.md`（第7-9章及所有新建页面已加入索引）
+- 标记矛盾：无
+- 备注：第9章正式规约宏观形状——幕高潮的节奏、副情节四项合法用途、复杂化 vs. 复杂性，以及作为驱动物理学的冲突律。假结局的装置收束全章。
+
+## [2026-04-17] 收录 | 第10-13章
+- 来源：`sources/book/10SCENE_DESIGN.md`、`sources/book/11SCENE_ANALYSIS.md`、`sources/book/12COMPOSITION.md`、`sources/book/13CRISIS_CLIMAX_RESOLUTION.md`
+- 新建页面：`chapters/chapter-10-scene-design.md`、`chapters/chapter-11-scene-analysis.md`、`chapters/chapter-12-composition.md`、`chapters/chapter-13-crisis-climax-resolution.md`、`concepts/turning-point.md`、`concepts/scene-objective.md`、`concepts/setup-and-payoff.md`、`concepts/text-and-subtext.md`、`concepts/crisis.md`、`concepts/dilemma.md`、`concepts/key-image.md`、`concepts/resolution.md`、`concepts/unity-and-variety.md`、`concepts/pacing.md`、`concepts/symbolic-ascension.md`、`concepts/principle-of-transition.md`、`principles/meaning-produces-emotion.md`、`principles/inevitable-and-unexpected.md`、`entities/trading-places.md`、`entities/wall-street.md`、`entities/star-wars.md`、`entities/the-empire-strikes-back.md`、`entities/thelma-louise.md`、`entities/the-deer-hunter.md`、`entities/sullivan-travels.md`、`entities/the-terminator.md`（中英双语同步）
+- 更新页面：`overview.md`、`index.md`、`log.md`、`structures/scene.md`、`structures/beat.md`、`structures/story-climax.md`、`concepts/obligatory-scene.md`、`concepts/foreshadowing.md`、`principles/no-scene-that-doesnt-turn.md`、`characters/protagonist.md`、`characters/character-arc.md`（中英双语同步）
+- 标记矛盾：无
+- 备注：第10-13章补齐了从宏观结构到场景工艺、再到结尾设计的整条链路。维基现在已覆盖场景目标、转折点、潜文本、编排、危机设计，以及“意义而非奇观产生情感”的结尾原则。

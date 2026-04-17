@@ -22,6 +22,19 @@ tags:
 
 Aesthetic emotion is the simultaneous encounter of thought and feeling — the fusion of idea and emotion that art creates and life rarely does. In life, experiences become meaningful with reflection in time; in art, they are meaningful *now, at the instant they happen.*
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self[Aesthetic Emotion]
+  ci[[Controlling Idea]]
+  sam[Story as Metaphor]
+  sv((Story Values))
+  ci -->|delivers| self
+  sam -->|vehicle for| self
+  sv -->|charged with| self
+```
+
 ## McKee's Argument
 
 Aristotle asked: why do we react differently to death in the street versus death in Homer? Because in life, mind and passions revolve in different spheres, rarely coordinated. Your intellectual life prepares you for emotional experiences that then urge fresh perceptions — but first one, then the other. Moments that blaze with a fusion of idea and emotion are so rare in life that when they happen, you think you're having a religious experience.

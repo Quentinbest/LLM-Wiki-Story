@@ -22,6 +22,19 @@ tags:
 
 Story Values are the universal qualities of human experience that may shift from positive to negative, or negative to positive, from one moment to the next. Examples: alive/dead, love/hate, freedom/slavery, truth/lie, courage/cowardice, loyalty/betrayal, wisdom/stupidity, hope/despair.
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self((Story Values))
+  event[Story Event]
+  scene[[Scene]]
+  sam[Story as Metaphor]
+  event -->|turns| self
+  scene -->|shifts| self
+  sam -->|expressed through| self
+```
+
 ## McKee's Argument
 
 Values are the soul of storytelling. They are not "virtues" or narrow moralizing "family values"—they refer to the broadest sense of the idea. All binary qualities of experience that can reverse their charge at any moment are Story Values. They may be moral (good/evil), ethical (right/wrong), or simply charged with experiential weight (hope/despair is neither moral nor ethical, but we know which end we're at).

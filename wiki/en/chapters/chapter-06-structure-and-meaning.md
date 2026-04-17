@@ -30,6 +30,30 @@ McKee then reveals the engine that drives stories toward their Controlling Idea:
 
 The chapter categorizes writers as **Idealists** (up-endings), **Pessimists** (down-endings), or **Ironists** (up/down-endings expressing life's dual nature). McKee warns against **didacticism** — the death of art through zealous preaching — and concludes that the artist's only responsibility is to tell the truth.
 
+## Chapter Concept Map
+
+```mermaid
+flowchart TB
+  ch[Chapter 6<br/>Structure and Meaning]
+  ae((Aesthetic Emotion))
+  prem[Premise]
+  ci[Controlling Idea]
+  dialectic[Idea vs Counter-Idea]
+  dramatize([Dramatize, Don't Explain])
+  truth([Tell the Truth])
+  ch --> ae
+  ch --> prem
+  ch --> ci
+  ch --> dialectic
+  ch --> dramatize
+  ch --> truth
+  prem -->|opens into| ci
+  dialectic -->|argues toward| ci
+  dramatize -->|proves| ci
+  ci -->|tested by| truth
+  ci -->|delivers| ae
+```
+
 ## Key Concepts Introduced
 
 - **[[aesthetic-emotion]]** — The simultaneous encounter of thought and feeling; what art provides that life cannot

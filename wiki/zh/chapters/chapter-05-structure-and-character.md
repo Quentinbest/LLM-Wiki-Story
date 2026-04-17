@@ -27,6 +27,26 @@ tags:
 
 最优秀的叙事更进一步：它不仅揭示真实性格，还使其发生**弧光**变化——在叙事过程中改变内在本性，变好或变坏。麦基通过哈姆雷特和[[the-verdict|《大审判》]]中的弗兰克·加尔文追溯了这一五步模式。最后，他认为最后一幕的高潮是作者的至高任务——75%的创作劳动都投入到设计它上——因为"电影就是关于最后二十分钟的"。
 
+## 章节概念图
+
+```mermaid
+flowchart TB
+  ch[第5章<br/>结构与角色]
+  charz[人物塑造vs真实性格]
+  arc[人物弧光]
+  reveal[人物揭示]
+  sic([结构即角色])
+  pressure((压力))
+  ch --> charz
+  ch --> arc
+  ch --> reveal
+  ch --> sic
+  pressure -->|暴露| reveal
+  reveal -->|深化为| arc
+  sic -->|融合| charz
+  sic -->|驱动| arc
+```
+
 ## 引入的核心概念
 
 - **[[characterization-vs-true-character]]**（人物塑造 vs. 真实性格）— 根本性区分：可观察的特征 vs. 压力下的选择

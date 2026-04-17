@@ -21,6 +21,17 @@ tags:
 
 Genres are frequently combined to resonate with meaning, enrich character, and create varieties of mood and emotion. A writer in command of genre can cross-breed from over two dozen principal genres, potentially creating a type of film the world has never seen.
 
+## Concept Map
+
+```mermaid
+flowchart LR
+  self[Mixing Genres]
+  genre[Genre]
+  gc[Genre Conventions]
+  genre -->|prerequisite for| self
+  self -->|recombines| gc
+```
+
 ## McKee's Argument
 
 Genre mixing is one of the writer's most powerful tools. A Love Story subplot finds its way into almost any Crime Story. The Fisher King wove five threads — Redemption Plot, Psycho-Drama, Love Story, Social Drama, Comedy — into an excellent film. The Musical Horror Film was a "delicious invention." The possibilities for inventive cross-breeding are endless.
