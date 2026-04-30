@@ -8,6 +8,10 @@ last_updated: 2026-04-10
 tags:
   - comparison
   - meaning
+importance: 4
+last_verified: 2026-04-10
+author: claude
+canonical_chapter: 6
 ---
 
 # 理想主义者 vs. 悲观主义者 vs. 反讽主义者

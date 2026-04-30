@@ -14,6 +14,10 @@ source: "sources/book/11SCENE_ANALYSIS.md"
 last_updated: 2026-04-17
 tags:
   - chapter
+importance: 3
+canonical_chapter: 11
+last_verified: 2026-04-17
+author: claude
 ---
 
 # 第11章：场景分析
@@ -36,6 +40,7 @@ flowchart TB
   beat --> scene
   scene -->|翻转| value
   beat -->|汇聚为| tp
+  tp -->|重新定义| scene
 ```
 
 ## 引入的核心概念
@@ -60,4 +65,3 @@ flowchart TB
 - 译文："没有什么真像它表面看起来那样。"
 - "If the scene is about what the scene is about, you're in deep shit."
 - 译文："如果一个场景只是在讲它表面正在讲的东西，那就麻烦大了。"
-

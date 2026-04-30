@@ -16,6 +16,10 @@ last_updated: 2026-04-07
 tags:
   - structure
   - story-hierarchy
+importance: 5
+canonical_chapter: 2
+last_verified: 2026-04-07
+author: claude
 ---
 
 # 故事高潮（Story Climax）
@@ -32,11 +36,13 @@ tags:
 flowchart LR
   self[[故事高潮<br/>不可逆转]]
   act[[幕]]
-  values((故事价值))
-  arch[[大情节]]
+  crisis[危机]
+  res[结局]
+  key[关键意象]
   act -->|累积至| self
-  self -->|绝对改变| values
-  arch -->|要求| self
+  crisis -->|爆发为| self
+  self --> res
+  self --> key
 ```
 
 ## 在故事层级中的位置

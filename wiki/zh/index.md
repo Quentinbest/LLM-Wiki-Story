@@ -2,15 +2,16 @@
 title: 维基索引
 type: index
 lang: zh
-last_updated: 2026-04-17
+last_updated: 2026-04-30
 ---
 
 # 维基索引
 
-> English: [[wiki/en/index|English Index]]
+> English: [[wiki/en/index|English Index]] · 代理面向清单：[[MAP]] · 政策参考：[[../CANONICAL|CANONICAL]]
 
 ## 概览
-- [[overview]] — 第1-13章麦基框架的全书综述
+- [[overview]] — 第1-19章麦基框架的全书综述
+- [[MAP]] — 代理面向的精简清单，按重要度排序的所有页面（查询时先读此页）
 
 ## 章节
 - [[chapter-01-the-story-problem]] — 故事问题：故事技艺为何衰落，为何重要
@@ -26,6 +27,12 @@ last_updated: 2026-04-17
 - [[chapter-11-scene-analysis]] — 场景分析：表层文本与潜文本、节拍、五步诊断与转折定位
 - [[chapter-12-composition]] — 编排：统一与变化、节奏控制、象征提升与转场
 - [[chapter-13-crisis-climax-resolution]] — 危机、高潮与结局：两难困局、最后选择、关键意象与余波
+- [[chapter-14-the-principle-of-antagonism]] — 对抗原则：对抗力量、价值递进、否定之否定
+- [[chapter-15-exposition]] — 铺陈/解说：戏剧化的信息传递、铺陈即弹药、闪回、画外音
+- [[chapter-16-problems-and-solutions]] — 问题与解决：故事漏洞、善的中心、惊奇与巧合、视点、改编、情节剧、喜剧设计
+- [[chapter-17-character]] — 人物：心虫、人物维度、两极化的人物阵容、喜剧人物
+- [[chapter-18-the-text]] — 文本：对白、描写、意象系统、悬念句式、无声剧本
+- [[chapter-19-a-writers-method]] — 作家的方法：由外而内 vs. 由内而外、分步提纲 → 处理稿 → 剧本
 
 ## 核心概念
 - [[structure]] — 结构：朝向高潮递进的事件内部系统，表达特定意义
@@ -76,6 +83,27 @@ last_updated: 2026-04-17
 - [[pacing]] — 节奏控制：张力与松弛的整体调度
 - [[symbolic-ascension]] — 象征提升：从字面图像升到原型性意象
 - [[principle-of-transition]] — 转场原则：把一个场景接向下一个场景的铰链
+- [[forces-of-antagonism]] — 对抗力量：主人公面对的内在、个人和超个人对抗的总和
+- [[value-progression]] — 价值递进：正面 → 相反 → 矛盾 → 否定之否定的四级降级
+- [[negation-of-the-negation]] — 否定之否定：终极负值——不只是"反面"，而是质上更糟的复合负面
+- [[exposition]] — 铺陈/解说：观众跟得上故事所需的叙事信息
+- [[exposition-as-ammunition]] — 铺陈即弹药：把信息当作戏剧弹药慢慢释放，而不是一次倾倒
+- [[flashback]] — 闪回：故事时间之前的戏剧化场景，仅当现在的场景承担不动时才使用
+- [[center-of-good]] — 善的中心：观众借以与之认同的正面电荷，靠周边的负面来反衬
+- [[surprise]] — 惊奇：观众对违反预期但仍真实可信之转折的反应
+- [[coincidence]] — 巧合：不合逻辑、偶然、无意义的事件——使用必须谨慎
+- [[hole]] — 故事漏洞：观众无法搭桥的逻辑断口，故事可信度即破
+- [[mind-worm]] — 心虫：让观众认同主人公的共情之核
+- [[point-of-view]] — 视点：摄影机和叙事偏向谁的体验
+- [[adaptation]] — 改编：把非银幕原作转化为剧本
+- [[melodrama]] — 情节剧：不是过度情感，而是动机不足——感情没有挣得理由
+- [[comic-design]] — 喜剧设计：喜剧故事的构造原理——被放大的反社会设计
+- [[comic-character]] — 喜剧人物：围绕单一盲目执念建造的人物
+- [[image-systems]] — 意象系统：反复出现的图像，潜在地编码主控思想
+- [[suspense-sentence]] — 悬念句式：让句子的意义在句号处落地的句法策略
+- [[dialogue]] — 对白：压力之下的话语——是弹药，不是闲谈
+- [[description]] — 描写：用具象的现在时把动作与场景写在纸上
+- [[law-of-diminishing-returns]] — 递减效应律：情感高峰即燃尽，同一电荷不能背靠背重复
 
 ## 故事结构
 - [[beat]] — 节拍：故事结构的最小单元，动作/反应的交换
@@ -103,6 +131,8 @@ last_updated: 2026-04-17
 - [[writing-from-the-inside-out]] — 由内而外地写作：从角色内在生命出发，再让外在场景随之浮现
 - [[meaning-produces-emotion]] — 意义产生情感：高潮的情感来自有意义的价值转变
 - [[inevitable-and-unexpected]] — 必然且意外：结尾既像命中注定，又不能原样被猜中
+- [[principle-of-antagonism]] — 对抗原则：主人公与故事只能升至对抗力量将其推到的高度
+- [[silent-screenplay]] — 无声剧本：抽掉对白看故事是否仍然成立——视觉是否真在承担叙事
 
 ## 作品实体（电影与文学作品）
 - [[tender-mercies]] — 《温柔的慈悲》（*Tender Mercies*, 1983）：麦基关于极简叙事与小情节的典型案例
@@ -127,6 +157,7 @@ last_updated: 2026-04-17
 - [[character-arc]] — 人物弧光：故事过程中内在本质的变化
 - [[character-revelation]] — 角色揭示：真实性格与人物塑造的对比或矛盾
 - [[protagonist]] — 主人公：怀抱自觉（及潜意识）欲望、意志坚定、驱动故事的角色
+- [[character-dimension]] — 人物维度：人物塑造内部或与真实性格之间持续存在的矛盾
 
 ## 类型
 *（类型分析页面将随着相关章节的收录逐步出现）*
@@ -137,9 +168,13 @@ last_updated: 2026-04-17
 - [[convention-vs-cliche]] — 惯例是形式，陈词滥调是形式的陈旧执行
 - [[idealist-vs-pessimist-vs-ironist]] — 三种人生观：正面结局、负面结局与反讽结局
 - [[complication-vs-complexity]] — 复杂化 vs. 复杂性：横向堆叠与纵向跨层级编排
+- [[mystery-suspense-dramatic-irony]] — 神秘、悬念与戏剧反讽：观众与角色之间的三种知识关系
+- [[emotion-feeling-mood]] — 情感、感受、情绪：弧线给电荷，情绪给风味，交替给节奏
 
 ## 实践应用
-*（实用操作指南将随着维基的扩展逐步出现）*
+- [[a-writers-method]] — 麦基完整的"由内而外"工作法：构思 → 分步提纲 → 试讲 → 处理稿 → 剧本 → 润色
+- [[step-outline]] — 分步提纲：用 3x5 卡片把故事写下，每场一两句，按幕分组，背面标功能
+- [[treatment]] — 处理稿：逐刻动作描述加完整潜文本，但不写对白；60-90 页
 
 ## 个人笔记
 - [[chapter-01-notes]] — 关于娱乐、故事定义、作家的热爱、文学天赋与故事天赋的思考
@@ -148,3 +183,8 @@ last_updated: 2026-04-17
 - [[chapter-04-notes]] — 关于类型惯例作为边界、艺术电影的知性包裹、类型研究方法论的思考
 - [[chapter-05-notes]] — 关于压力下的选择揭示角色、电影作为时间艺术的思考
 - [[chapter-06-notes]] — 关于审美情感、故事作为证据、展示而非讲述、自我认知的思考
+- [[chapter-07-notes]] — 关于鸿沟作为故事引擎、四种冲突层次的思考
+- [[chapter-10-notes]] — 关于场景设计、转折点与价值变化检验的思考
+- [[chapter-11-notes]] — 关于五步场景分析与转折点定位的思考
+- [[chapter-15-notes]] — 关于戏剧化铺陈：把《刺杀肯尼迪》当作研究范本的思考
+- [[chapter-18-notes]] — 关于具象描写：名词与动词作为事物与动作之"名"的思考

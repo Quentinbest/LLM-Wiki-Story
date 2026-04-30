@@ -8,6 +8,10 @@ last_updated: 2026-04-10
 tags:
   - comparison
   - meaning
+importance: 4
+last_verified: 2026-04-10
+author: claude
+canonical_chapter: 6
 ---
 
 # Idealist vs. Pessimist vs. Ironist
@@ -27,8 +31,8 @@ flowchart LR
   ci --> i
   ci --> p
   ci --> ir
-  i -.up-ending.-> ir
-  p -.down-ending.-> ir
+  i -.up ending.-> ir
+  p -.down ending.-> ir
 ```
 
 ## Key Differences

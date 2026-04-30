@@ -24,6 +24,10 @@ source: "sources/book/8THE_INCITING_INCIDENT.md"
 last_updated: 2026-04-15
 tags:
   - chapter
+importance: 3
+canonical_chapter: 8
+last_verified: 2026-04-15
+author: claude
 ---
 
 # 第8章：激励事件
@@ -31,7 +35,7 @@ tags:
 > English: [[wiki/en/chapters/chapter-08-the-inciting-incident|English]]
 
 ## 摘要
-在启动故事之前，麦基回到[[setting]]（背景）的话题，要求更深入的研究：作家必须了解世界的工作、政治、仪式、价值、人物传记、[[backstory]]（前史）与[[cast-design]]（人物阵容设计）。研究饱和之后，便产生**作者性**——"作者/权威/可信"三位一体。观众由两扇门进入故事：**共情**与**可信**；任何一扇失守，投入便崩塌。
+在启动故事之前，麦基回到[[setting]]（背景）的话题，要求更深入的研究：作家必须了解世界的工作、政治、仪式、价值、人物传记、[[backstory]]（前史）与[[cast-design]]（人物阵容设计）。研究饱和之后，便产生**作者性**——"作者/权威/可信"三位一体。观众由两扇门进入故事：[[mind-worm|共情]]与**可信**；任何一扇失守，投入便崩塌。
 
 随后麦基给出[[inciting-incident]]（激励事件）的定义：讲述的第一个重大事件，**从根本上打破主人公生活中的力量平衡**，唤起恢复平衡的欲望。由此产生[[object-of-desire]]（欲望对象）和[[the-quest]]（追寻）。那深层的、往往是潜意识的欲望，构成故事的[[spine]]（脊椎）。观众目睹激励事件，便提出[[major-dramatic-question]]（主要戏剧性问题，"此事将如何收场？"），并在想象中投射出[[obligatory-scene]]（必备场景）——那场与对抗力量最高潮的对决，讲述者因此负有**必须兑现**的合同。本章的深层结构命题由此确立：**一切故事都是一场追寻**，由一个激变事件发动，指向一次必然的对决，由欲望之脊贯穿始终。
 

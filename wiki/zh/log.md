@@ -167,3 +167,76 @@ lang: zh
 - 更新页面：`overview.md`、`index.md`、`log.md`、`structures/scene.md`、`structures/beat.md`、`structures/story-climax.md`、`concepts/obligatory-scene.md`、`concepts/foreshadowing.md`、`principles/no-scene-that-doesnt-turn.md`、`characters/protagonist.md`、`characters/character-arc.md`（中英双语同步）
 - 标记矛盾：无
 - 备注：第10-13章补齐了从宏观结构到场景工艺、再到结尾设计的整条链路。维基现在已覆盖场景目标、转折点、潜文本、编排、危机设计，以及“意义而非奇观产生情感”的结尾原则。
+
+## [2026-04-22] 收录 | 第14章 — 对抗原则
+- 来源：`sources/book/14THE_PRINCIPLE_OF_ANTAGONISM.md`
+- 新建页面：`chapters/chapter-14-the-principle-of-antagonism.md`、`principles/principle-of-antagonism.md`、`concepts/forces-of-antagonism.md`、`concepts/value-progression.md`、`concepts/negation-of-the-negation.md`（中英双语同步）
+- 更新页面：无
+- 标记矛盾：无
+- 备注：安装四级价值递进（正面→相反→矛盾→否定之否定）作为负面力量的诊断工具。第14章是全书枢轴——前面所有技艺元素的上限都被对抗设定。
+
+## [2026-04-22] 收录 | 第15章 — 铺陈/解说
+- 来源：`sources/book/15EXPOSITION.md`
+- 新建页面：`chapters/chapter-15-exposition.md`、`concepts/exposition.md`、`concepts/exposition-as-ammunition.md`、`concepts/flashback.md`（中英双语同步）
+- 更新页面：`concepts/backstory.md`、`concepts/foreshadowing.md`（与铺陈机制交叉引用）
+- 标记矛盾：无
+- 备注：把信息重塑为弹药——配给后引爆，而非倾倒。闪回仅在现场承担不动时才使用。
+
+## [2026-04-22] 收录 | 第16章 — 问题与解决
+- 来源：`sources/book/16PROBLEMS_AND_SOLUTIONS.md`
+- 新建页面：`chapters/chapter-16-problems-and-solutions.md`、`concepts/center-of-good.md`、`concepts/surprise.md`、`concepts/coincidence.md`、`concepts/hole.md`、`concepts/point-of-view.md`、`concepts/adaptation.md`、`concepts/melodrama.md`、`concepts/comic-design.md`、`comparisons/mystery-suspense-dramatic-irony.md`（中英双语同步）
+- 更新页面：无
+- 标记矛盾：无
+- 备注：目录化反复出现的技艺败相及其矫正之法。神秘/悬念/戏剧反讽对比页让"观众-角色知识轴"显式化。
+
+## [2026-04-22] 收录 | 第17章 — 人物
+- 来源：`sources/book/17CHARACTER.md`
+- 新建页面：`chapters/chapter-17-character.md`、`concepts/mind-worm.md`、`characters/character-dimension.md`、`concepts/comic-character.md`（中英双语同步）
+- 更新页面：`characters/characterization-vs-true-character.md`、`concepts/cast-design.md`（深化维度与两极化阵容逻辑）
+- 标记矛盾：无
+- 备注：把人物作为系统构建：共情之核（心虫）+ 持续矛盾（人物维度）+ 两极化人物阵容。
+
+## [2026-04-22] 收录 | 第18章 — 文本
+- 来源：`sources/book/18THE_TEXT.md`
+- 新建页面：`chapters/chapter-18-the-text.md`、`concepts/dialogue.md`、`concepts/description.md`、`concepts/image-systems.md`、`concepts/suspense-sentence.md`、`principles/silent-screenplay.md`（中英双语同步）
+- 更新页面：无
+- 标记矛盾：无
+- 备注：文本是*最后*一层。意象系统、悬念句式、无声剧本检验现已成为维基的一等公民。
+
+## [2026-04-22] 收录 | 第19章 — 作家的方法
+- 来源：`sources/book/19A_WRITER_S_METHOD.md`
+- 新建页面：`chapters/chapter-19-a-writers-method.md`、`application/a-writers-method.md`、`application/step-outline.md`、`application/treatment.md`（中英双语同步）
+- 更新页面：`principles/writing-from-the-inside-out.md`（中英双语同步扩展，把第19章的项目层面操作化补入）
+- 标记矛盾:无
+- 备注：`application/` 目录的首批入驻页面。"由内而外"工作流（构思→分步提纲→试讲→处理稿→剧本）现已可导航。
+
+## [2026-04-29] 收录 | 个人笔记（第7、10、11、15、18章）
+- 来源：`sources/book/ch7-note.md`、`sources/book/ch10-note.md`、`sources/book/ch11-note.md`、`sources/book/ch15-note.md`、`sources/book/ch18-note.md`
+- 新建页面：`notes/chapter-15-notes.md`、`notes/chapter-18-notes.md`（中英双语同步）
+- 更新页面：先前已建的 `notes/chapter-07-notes.md`、`notes/chapter-10-notes.md`、`notes/chapter-11-notes.md` 保留
+- 备注：第14、16章的个人笔记源文件为空，已跳过。第15章笔记提炼麦基的《刺杀肯尼迪》研究练习；第18章笔记提炼"具体即生动"的动词原则。
+
+## [2026-04-29] 收录 | 补充资料 — 情感、感受与情绪
+- 来源：`sources/supplementary/Emotion, feeling, and mood in screenwriting.html`
+- 新建页面：`comparisons/emotion-feeling-mood.md`、`concepts/law-of-diminishing-returns.md`（中英双语同步）
+- 更新页面：`index.md`（中英双语同步）
+- 标记矛盾：无
+- 备注：综合麦基的三层框架（情感=转变；感受=内在气候；情绪=电影化身），并把"递减效应律"正式立为一等概念。与 `aesthetic-emotion`、`meaning-produces-emotion`、`image-systems`、`melodrama`、`act-rhythm` 交叉引用。
+
+## [2026-04-29] 同步 | 索引与综述更新至第1-19章
+- 更新页面：`index.md`、`overview.md`（中英双语同步）
+- 备注：补入第14-19章及所有新建概念（forces-of-antagonism、value-progression、negation-of-the-negation、exposition、exposition-as-ammunition、flashback、center-of-good、surprise、coincidence、hole、mind-worm、point-of-view、adaptation、melodrama、comic-design、comic-character、image-systems、suspense-sentence、dialogue、description、law-of-diminishing-returns）、原则（principle-of-antagonism、silent-screenplay）、人物（character-dimension）、对比（mystery-suspense-dramatic-irony、emotion-feeling-mood）、实践应用（a-writers-method、step-outline、treatment）至两个索引。综述全面重写以覆盖第1-19章完整论证弧线，主概念图更新为展示全书四个部分。
+
+## [2026-04-29] 架构 | 代理记忆升级（Karpathy 模式 → 混合模式）
+- 新建文件：`wiki/CANONICAL.md`（双语政策：术语、规范章节规则、冲突解决、作者权属、字段说明）、`scripts/update_frontmatter.py`、`scripts/atomize_quotes.py`、`scripts/regen_map.py`、`wiki/en/MAP.md`、`wiki/zh/MAP.md`
+- 更新页面：`CLAUDE.md`（新增第 8-10 条关键规则、MAP/quotes 结构、新 frontmatter 字段、收录/查询/检查流程）、313 个维基页面（frontmatter 字段：importance、canonical_chapter、last_verified、author）、`wiki/en/index.md` + `wiki/zh/index.md`（链接 MAP 与 CANONICAL）
+- 新建（原子化）：`wiki/en/quotes/` 下 68 个英文引文原子页面与对应的 68 个中文版本（部分中文版含 `<!-- TODO: 添加中文译文 -->` 标记，源章节页未提供译文）
+- 标记矛盾：无
+- 备注：把 Mercury / 第二大脑批评中的优化思路落到本项目。Markdown 仍是底层基质（人类阅读它）；MAP.md 与结构化 frontmatter 成为代理加速层。重要度分级（5 = 基础概念，1 = 次要；5 级 23 页、4 级 56 页、3 级 134 页、2 级 11 页）使查询时可加权检索。`canonical_chapter` 标定每个概念权威定义的归属。`last_verified` 把"被编辑"与"对照来源核实"区分开。`notes/` 下所有页面 `author: user`，编码"Claude 永不擅自重写用户反思"这一规则。引文原子化（68 × 2 语种）使麦基的每条断言可单独检索。`scripts/` 下脚本为确定性脚本，每次涉及结构变化的收录后应重新运行。
+
+## [2026-04-30] 检查 | 修复 Web App 校验警告
+- 来源：`lib/wiki-core.js` 中的 `wiki/` 校验器
+- 新建页面：无
+- 更新页面：`chapters/chapter-08-the-inciting-incident.md`、`chapters/chapter-11-scene-analysis.md`、`comparisons/idealist-vs-pessimist-vs-ironist.md`、`structures/beat.md`、`structures/scene.md`、`structures/story-climax.md`、`overview.md`、`index.md`、`MAP.md`（适用处中英双语同步）
+- 标记矛盾：无
+- 备注：修复剩余 14 条 Web App 警告：1 条死链、2 个缺失的 `canonical_chapter` 字段，以及中英文 Mermaid 拓扑漂移。因综述页 schema 字段变化，已重新生成两份 MAP。

@@ -15,6 +15,10 @@ last_updated: 2026-04-07
 tags:
   - structure
   - story-hierarchy
+importance: 5
+canonical_chapter: 2
+last_verified: 2026-04-07
+author: claude
 ---
 
 # 节拍（Beat）
@@ -31,9 +35,11 @@ tags:
 flowchart LR
   self[[节拍<br/>最小单元]]
   scene[[场景]]
-  event[故事事件]
+  sub[表层文本与潜文本]
+  turn[转折点]
+  sub --> self
   self -->|聚合为| scene
-  self -->|构成| event
+  self -->|汇聚为| turn
 ```
 
 ## 在故事层级中的位置

@@ -18,6 +18,10 @@ last_updated: 2026-04-07
 tags:
   - structure
   - story-hierarchy
+importance: 5
+canonical_chapter: 2
+last_verified: 2026-04-07
+author: claude
 ---
 
 # 场景（Scene）
@@ -36,12 +40,14 @@ flowchart LR
   beat[[节拍]]
   sequence[[序列]]
   values((故事价值))
-  event[故事事件]
+  tp[转折点]
+  so[场景目标]
   principle([没有不转变的场景])
+  so --> self
   beat -->|构建| self
   self -->|聚合为| sequence
   self -->|转变| values
-  self -->|即一个| event
+  self -->|汇聚为| tp
   principle -.支配.-> self
 ```
 

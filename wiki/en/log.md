@@ -172,3 +172,76 @@ lang: en
 - Pages updated: `overview.md`, `index.md`, `log.md`, `structures/scene.md`, `structures/beat.md`, `structures/story-climax.md`, `concepts/obligatory-scene.md`, `concepts/foreshadowing.md`, `principles/no-scene-that-doesnt-turn.md`, `characters/protagonist.md`, `characters/character-arc.md` (all en + zh)
 - Contradictions flagged: none
 - Notes: Chapters 10–13 complete the movement from macro-structure to scene craft and endings. The wiki now covers scene objectives, turning points, subtext, composition, crisis design, and the principle that meaning — not spectacle — generates emotion.
+
+## [2026-04-22] ingest | Chapter 14 — The Principle of Antagonism
+- Source: `sources/book/14THE_PRINCIPLE_OF_ANTAGONISM.md`
+- Pages created: `chapters/chapter-14-the-principle-of-antagonism.md`, `principles/principle-of-antagonism.md`, `concepts/forces-of-antagonism.md`, `concepts/value-progression.md`, `concepts/negation-of-the-negation.md` (all en + zh)
+- Pages updated: none
+- Contradictions flagged: none
+- Notes: Installs the four-stage value progression (Positive → Contrary → Contradictory → Negation of the Negation) as the diagnostic of negative-side power. Chapter 14 is the book's hinge — every prior craft element has its ceiling set by antagonism.
+
+## [2026-04-22] ingest | Chapter 15 — Exposition
+- Source: `sources/book/15EXPOSITION.md`
+- Pages created: `chapters/chapter-15-exposition.md`, `concepts/exposition.md`, `concepts/exposition-as-ammunition.md`, `concepts/flashback.md` (all en + zh)
+- Pages updated: `concepts/backstory.md`, `concepts/foreshadowing.md` (cross-linked to exposition machinery)
+- Contradictions flagged: none
+- Notes: Reframes information as ammunition — rationed and detonated, not dumped. Flashback is admitted only when the present scene cannot carry the load.
+
+## [2026-04-22] ingest | Chapter 16 — Problems and Solutions
+- Source: `sources/book/16PROBLEMS_AND_SOLUTIONS.md`
+- Pages created: `chapters/chapter-16-problems-and-solutions.md`, `concepts/center-of-good.md`, `concepts/surprise.md`, `concepts/coincidence.md`, `concepts/hole.md`, `concepts/point-of-view.md`, `concepts/adaptation.md`, `concepts/melodrama.md`, `concepts/comic-design.md`, `comparisons/mystery-suspense-dramatic-irony.md` (all en + zh)
+- Pages updated: none
+- Contradictions flagged: none
+- Notes: Catalogs the recurring craft failures and their corrections. The mystery/suspense/dramatic-irony comparison page makes the audience-knowledge axis explicit.
+
+## [2026-04-22] ingest | Chapter 17 — Character
+- Source: `sources/book/17CHARACTER.md`
+- Pages created: `chapters/chapter-17-character.md`, `concepts/mind-worm.md`, `characters/character-dimension.md`, `concepts/comic-character.md` (all en + zh)
+- Pages updated: `characters/characterization-vs-true-character.md`, `concepts/cast-design.md` (deepened with dimension and polarized-cast logic)
+- Contradictions flagged: none
+- Notes: Character built as a system: empathy seed (mind-worm) + consistent contradiction (dimension) + polarized cast.
+
+## [2026-04-22] ingest | Chapter 18 — The Text
+- Source: `sources/book/18THE_TEXT.md`
+- Pages created: `chapters/chapter-18-the-text.md`, `concepts/dialogue.md`, `concepts/description.md`, `concepts/image-systems.md`, `concepts/suspense-sentence.md`, `principles/silent-screenplay.md` (all en + zh)
+- Pages updated: none
+- Contradictions flagged: none
+- Notes: The text is the *last* layer. Image systems, suspense sentences, and the silent-screenplay test are now first-class wiki citizens.
+
+## [2026-04-22] ingest | Chapter 19 — A Writer's Method
+- Source: `sources/book/19A_WRITER_S_METHOD.md`
+- Pages created: `chapters/chapter-19-a-writers-method.md`, `application/a-writers-method.md`, `application/step-outline.md`, `application/treatment.md` (all en + zh)
+- Pages updated: `principles/writing-from-the-inside-out.md` (extended with Chapter 19 project-scale operationalization, both en + zh)
+- Contradictions flagged: none
+- Notes: First entries in the `application/` directory. The inside-out workflow (idea → step-outline → pitch → treatment → screenplay) is now a navigable how-to.
+
+## [2026-04-29] ingest | Personal Notes (Chapters 7, 10, 11, 15, 18)
+- Source: `sources/book/ch7-note.md`, `sources/book/ch10-note.md`, `sources/book/ch11-note.md`, `sources/book/ch15-note.md`, `sources/book/ch18-note.md`
+- Pages created: `notes/chapter-15-notes.md`, `notes/chapter-18-notes.md` (en + zh)
+- Pages updated: previously created `notes/chapter-07-notes.md`, `notes/chapter-10-notes.md`, `notes/chapter-11-notes.md` retained
+- Notes: Ch.14 and Ch.16 source notes are empty and were skipped. Ch.15 note distills McKee's *JFK* exercise; Ch.18 note distills the "specific = vivid" verb principle.
+
+## [2026-04-29] ingest | Supplementary — Emotion, Feeling, and Mood
+- Source: `sources/supplementary/Emotion, feeling, and mood in screenwriting.html`
+- Pages created: `comparisons/emotion-feeling-mood.md`, `concepts/law-of-diminishing-returns.md` (en + zh)
+- Pages updated: `index.md` (en + zh)
+- Contradictions flagged: none
+- Notes: Synthesizes McKee's three-layer framework (emotion = transition; feeling = inner climate; mood = cinematic incarnation) and formalizes the Law of Diminishing Returns as a first-class concept. Cross-linked with `aesthetic-emotion`, `meaning-produces-emotion`, `image-systems`, `melodrama`, `act-rhythm`.
+
+## [2026-04-29] sync | Indexes + Overview Updated to Chapters 1–19
+- Pages updated: `index.md`, `overview.md` (en + zh)
+- Notes: Added chapters 14–19, all newly created concepts (forces-of-antagonism, value-progression, negation-of-the-negation, exposition, exposition-as-ammunition, flashback, center-of-good, surprise, coincidence, hole, mind-worm, point-of-view, adaptation, melodrama, comic-design, comic-character, image-systems, suspense-sentence, dialogue, description, law-of-diminishing-returns), principles (principle-of-antagonism, silent-screenplay), characters (character-dimension), comparisons (mystery-suspense-dramatic-irony, emotion-feeling-mood), and application pages (a-writers-method, step-outline, treatment) to both indexes. Overview rewritten to cover the full Ch.1–19 arc with an updated master concept map showing all four parts of the book.
+
+## [2026-04-29] schema | Agent-Memory Upgrade (Karpathy → hybrid)
+- Files created: `wiki/CANONICAL.md` (bilingual policy: terminology, canonical-chapter rules, conflict resolution, authorship boundary, field glossary), `scripts/update_frontmatter.py`, `scripts/atomize_quotes.py`, `scripts/regen_map.py`, `wiki/en/MAP.md`, `wiki/zh/MAP.md`
+- Pages updated: `CLAUDE.md` (added rules 8–10, MAP/quotes structure, new schema fields, INGEST/QUERY/LINT updates), 313 wiki pages (frontmatter: importance, canonical_chapter, last_verified, author), `wiki/en/index.md` + `wiki/zh/index.md` (linked MAP and CANONICAL)
+- Pages created (atomized): 68 EN quote atoms in `wiki/en/quotes/q-chNN-NN.md` and 68 ZH counterparts (some carry `<!-- TODO: 添加中文译文 -->` where the chapter page lacked a Chinese translation)
+- Contradictions flagged: none
+- Notes: Translates the optimizations from the Mercury / second-brain critique into this project. Markdown remains the substrate (humans read it); MAP.md + structured frontmatter become the agent accelerant. Importance scoring (5 = foundational, 1 = minor; 23 pages at 5, 56 at 4, 134 at 3, 11 at 2) lets QUERY weight retrieval. `canonical_chapter` resolves where each concept's authoritative definition lives. `last_verified` separates "edited" from "cross-checked against source." `author: user` on all `notes/` pages encodes the rule that Claude never silently rewrites the user's reflections. Quote atomization (68 atoms × 2 languages) makes McKee's claims individually retrievable. Generation scripts under `scripts/` are deterministic; rerun on every INGEST that changes structure.
+
+## [2026-04-30] lint | Resolve Web App Validation Warnings
+- Source: `wiki/` validator in `lib/wiki-core.js`
+- Pages created: none
+- Pages updated: `chapters/chapter-08-the-inciting-incident.md`, `chapters/chapter-11-scene-analysis.md`, `comparisons/idealist-vs-pessimist-vs-ironist.md`, `structures/beat.md`, `structures/scene.md`, `structures/story-climax.md`, `overview.md`, `index.md`, `MAP.md` (en + zh where applicable)
+- Contradictions flagged: none
+- Notes: Resolved the remaining 14 web app warnings: one dead wikilink, two missing `canonical_chapter` fields, and EN/ZH Mermaid topology drift. Regenerated both MAP files after the schema-affecting overview update.

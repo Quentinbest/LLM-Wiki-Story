@@ -24,6 +24,10 @@ source: "sources/book/8THE_INCITING_INCIDENT.md"
 last_updated: 2026-04-15
 tags:
   - chapter
+importance: 3
+canonical_chapter: 8
+last_verified: 2026-04-15
+author: claude
 ---
 
 # Chapter 8: The Inciting Incident
@@ -31,7 +35,7 @@ tags:
 > 中文版：[[wiki/zh/chapters/chapter-08-the-inciting-incident|中文]]
 
 ## Summary
-Before launching the story McKee returns to [[setting]] and demands deeper research: the writer must know the work, politics, rituals, values, biographies, [[backstory]], and [[cast-design]] of the world. Saturation yields **authorship** — the three virtues of *author, authority, authenticity*. The audience enters through two gates: [[empathy]] and [[authenticity]]; the moment either fails, involvement collapses.
+Before launching the story McKee returns to [[setting]] and demands deeper research: the writer must know the work, politics, rituals, values, biographies, [[backstory]], and [[cast-design]] of the world. Saturation yields **authorship** — the three virtues of *author, authority, authenticity*. The audience enters through two gates: [[mind-worm|empathy]] and [[authenticity]]; the moment either fails, involvement collapses.
 
 McKee then defines the [[inciting-incident]]: the first major event of the telling, which *radically upsets the balance of forces in the protagonist's life* and arouses the desire to restore balance. From this rupture emerges an [[object-of-desire]] and a [[the-quest|quest]]. The deep desire, often unconscious, becomes the [[spine]] of the story. Witnessing the inciting incident provokes the [[major-dramatic-question]] ("how will this turn out?") and projects into the audience's imagination the [[obligatory-scene]] — the climactic confrontation with the forces of antagonism that the storyteller is now contractually bound to deliver. This is the chapter's deep structural claim: **every story is a Quest**, launched by a single radical event, oriented toward an obligatory confrontation, and unified by the spine of desire.
 
