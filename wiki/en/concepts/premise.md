@@ -11,6 +11,10 @@ tags:
   - concept
   - meaning
   - process
+importance: 4
+canonical_chapter: 6
+last_verified: 2026-04-10
+author: claude
 ---
 
 # Premise

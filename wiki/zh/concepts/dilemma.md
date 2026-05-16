@@ -18,6 +18,10 @@ last_updated: 2026-04-17
 tags:
   - concept
   - ending
+importance: 4
+canonical_chapter: 13
+last_verified: 2026-04-17
+author: claude
 ---
 
 # 两难困局（Dilemma）

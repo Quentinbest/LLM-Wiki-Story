@@ -13,12 +13,17 @@ LLM-Wiki-Story/
 │   ├── films/                 ← Screenplay excerpts
 │   └── assets/
 └── wiki/                      ← LLM-GENERATED. You own this.
+    ├── CANONICAL.md           ← Bilingual policy: terminology, canonical chapters, conflict resolution, authorship
     ├── en/  ←→  zh/           ← Mirrored structure (zh/ uses same filenames)
-        ├── index.md / log.md / overview.md
+        ├── index.md / log.md / overview.md / MAP.md
         ├── chapters/ concepts/ structures/ principles/
         ├── entities/ characters/ genres/ comparisons/
-        ├── application/ notes/
+        ├── application/ notes/ quotes/
 ```
+
+**`MAP.md`** is the agent-facing slim manifest. Generated alongside `index.md`; one row per page, sorted by `importance`, with `type | canonical_chapter | last_updated | title`. Read MAP first to plan deep-loads; the human reads the rich `index.md`.
+
+**`quotes/`** are atomized McKee quotes — one quote per file with frontmatter linking back to chapter, concept, and film. Use these for fast quote retrieval; chapter pages still carry the human-readable Notable Quotes list.
 
 ## Critical Rules
 
@@ -29,6 +34,9 @@ LLM-Wiki-Story/
 5. **Kebab-case filenames** in both trees. Same filename in `en/` and `zh/`.
 6. **ALWAYS create pages in both languages** — never leave trees out of sync.
 7. **ALWAYS include a Mermaid diagram** on every `concept`, `structure`, `principle`, `chapter-summary`, `comparison`, and `overview` page.
+8. **NEVER silently rewrite `author: user` pages** (anything under `wiki/{en,zh}/notes/`). Surface typos and dead wikilinks; ask before editing substance.
+9. **CONSULT `wiki/CANONICAL.md`** for terminology, canonical chapters, and conflict-resolution rules. CANONICAL.md is the single source of truth — the inline Terminology Reference below is a quick excerpt.
+10. **REGENERATE `wiki/{en,zh}/MAP.md`** whenever pages are created, deleted, or have their `importance`/`canonical_chapter` changed. (Use the `scripts/regen_map.py` helper.)
 
 ## Bilingual Rules
 
@@ -42,7 +50,9 @@ LLM-Wiki-Story/
 6. ZH: first mention of a McKee term → 中文名（English Name）; after that, Chinese only.
 7. ZH: simplified Chinese (简体中文). Film titles: 中文片名（*English Title*, Year）.
 
-## Terminology Reference
+## Terminology Reference (Quick Excerpt)
+
+> Full bilingual table with canonical chapters lives in `wiki/CANONICAL.md`. Add new terms there, not here.
 
 | English | 中文 |
 |---|---|
@@ -50,24 +60,18 @@ LLM-Wiki-Story/
 | The Gap | 鸿沟（期望与结果之间的裂缝） |
 | Controlling Idea | 主控思想 |
 | Inciting Incident | 激励事件 |
-| Progressive Complications | 递进复杂化 |
 | Crisis / Climax / Resolution | 危机 / 高潮 / 结局 |
 | Turning Point | 转折点 |
 | Beat / Scene / Sequence / Act | 节拍 / 场景 / 序列 / 幕 |
 | Archplot / Miniplot / Antiplot | 大情节 / 小情节 / 反情节 |
-| Protagonist / Antagonist | 主人公 / 对抗力量 |
-| Principle of Antagonism | 对抗原则 |
-| Characterization | 人物塑造（外在特征） |
-| True Character | 真实性格（压力下的选择） |
+| Principle of Antagonism / Forces of Antagonism | 对抗原则 / 对抗力量 |
+| Characterization / True Character | 人物塑造 / 真实性格 |
 | Character Arc / Dimension | 人物弧光 / 人物维度 |
 | Spine / Subtext | 故事脊椎 / 潜文本 |
-| Exposition | 铺陈 / 解说 |
-| Setup and Payoff | 铺垫与回报 |
+| Exposition / Exposition as Ammunition | 铺陈 / 铺陈即弹药 |
 | Negation of the Negation | 否定之否定 |
 | Genre / Obligatory Scene | 类型 / 必备场景 |
-| Backstory | 前史 |
-
-*(Extend as new terms are encountered.)*
+| Step-Outline / Treatment | 分步提纲 / 处理稿 |
 
 ## Concept Relationship Diagrams
 
@@ -112,10 +116,11 @@ Required sections per page type (EN heading → ZH heading):
 
 ### INGEST
 1. Read source completely.
-2. For each page type in **both** `wiki/en/` and `wiki/zh/`: create/update chapter summary, concepts, structures, principles, entities, genres, and character pages.
+2. For each page type in **both** `wiki/en/` and `wiki/zh/`: create/update chapter summary, concepts, structures, principles, entities, genres, and character pages. Set `importance`, `canonical_chapter`, `last_verified`, and `author: claude` on every new page (see `CANONICAL.md`).
 3. Add/update Mermaid diagrams with **identical topology** in both trees.
-4. Check for contradictions with existing wiki content; flag to user.
-5. Update both indexes and append to both logs.
+4. Check for contradictions with existing wiki content using `CANONICAL.md` §3 rules; flag to user when in doubt.
+5. Atomize Notable Quotes into `wiki/{en,zh}/quotes/` for any new chapter page.
+6. Update both indexes and **regenerate** `wiki/{en,zh}/MAP.md`. Append to both logs.
 
 Log format:
 ```
@@ -128,15 +133,16 @@ Log format:
 ZH log uses: `## [YYYY-MM-DD] 收录 | [标题]` with fields `来源 / 新建页面 / 更新页面 / 标记矛盾`.
 
 ### QUERY
-1. Read the relevant index, then the relevant pages.
-2. Synthesize answer with `[[wikilinks]]`; respond in the user's language.
-3. For analysis/comparisons, offer to create a wiki page in both languages.
-4. Append query to both logs.
+1. Read `MAP.md` first to identify high-`importance` pages relevant to the question; deep-load only those.
+2. Fall back to `index.md` when MAP is insufficient (e.g. browsing a category).
+3. Synthesize answer with `[[wikilinks]]`; respond in the user's language. Weight `importance` when ranking results.
+4. For analysis/comparisons, offer to create a wiki page in both languages.
+5. Append query to both logs.
 
 ### LINT
-Check for: contradictions · stale claims · orphan pages · missing pages · zero film examples · missing cross-refs · frontmatter gaps · EN/ZH sync gaps · index gaps · missing language toggles · missing Mermaid blocks · diagram drift (`related:` entry absent from diagram) · bilingual topology mismatch.
+Check for: contradictions · stale claims · orphan pages · missing pages · zero film examples · missing cross-refs · frontmatter gaps (including `importance`, `canonical_chapter`, `last_verified`, `author`) · EN/ZH sync gaps · index gaps · missing language toggles · missing Mermaid blocks · diagram drift (`related:` entry absent from diagram) · bilingual topology mismatch · `last_verified` older than source mtime · terminology not matching `CANONICAL.md` §1 · `canonical_chapter` inconsistent with `chapter_refs` · MAP.md out of date.
 
-Auto-fix safe issues. Present remaining issues to user. Append to both logs.
+Auto-fix safe issues. Never edit `author: user` pages without confirmation. Present remaining issues to user. Append to both logs.
 
 ## Style Guide
 
@@ -157,9 +163,13 @@ Auto-fix safe issues. Present remaining issues to user. Append to both logs.
 | Field | Type | Description |
 |---|---|---|
 | `title` | string | Display name (EN for en/, ZH for zh/) |
-| `type` | string | chapter-summary · concept · structure · principle · entity · genre · comparison · application · note · index · log |
+| `type` | string | chapter-summary · concept · structure · principle · entity · genre · comparison · application · note · quote · index · log |
 | `lang` | string | `en` or `zh` |
-| `last_updated` | date | YYYY-MM-DD |
+| `last_updated` | date | YYYY-MM-DD — date of any edit |
+| `last_verified` | date | YYYY-MM-DD — date the page was last cross-checked against its source. Distinct from `last_updated`. |
+| `author` | enum | `claude` for everything Claude generated; `user` for `notes/` pages. See Rule #8 and `CANONICAL.md` §4. |
+| `importance` | int 1–5 | Retrieval ranking. 5 = foundational concept McKee returns to repeatedly; 1 = minor reference. Defaults by type, with overrides for foundational slugs. |
+| `canonical_chapter` | int or null | The single chapter that owns this concept's definition. See `CANONICAL.md` §2. |
 | `tags` | list | Type tag + subtopic tags |
 
 ### Type-Specific
@@ -181,3 +191,7 @@ Auto-fix safe issues. Present remaining issues to user. Append to both logs.
 | `key_concepts` / `key_entities` | chapter-summary | Main concepts/entities |
 | `source` | chapter-summary | Path to source file |
 | `aliases` | any | Alternate names (include cross-language) |
+| `quote` | quote | The McKee quote, verbatim |
+| `chapter` (quote) | quote | Source chapter number (also serves as canonical_chapter) |
+| `concept_refs` | quote | Concept wikilinks the quote anchors |
+| `film_refs` | quote | Film wikilinks the quote references |

@@ -16,6 +16,10 @@ tags:
   - concept
   - meaning
   - structure
+importance: 4
+canonical_chapter: 6
+last_verified: 2026-04-10
+author: claude
 ---
 
 # Idea vs. Counter-Idea

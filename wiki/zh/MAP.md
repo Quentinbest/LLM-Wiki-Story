@@ -2,7 +2,7 @@
 title: "MAP — 代理面向清单"
 type: index
 lang: zh
-last_updated: 2026-04-30
+last_updated: 2026-05-06
 tags:
   - map
   - manifest
@@ -14,7 +14,7 @@ tags:
 
 本文件按 `importance` 排序列出维基中所有页面，便于快速分诊。**先读 MAP** 锁定高价值页面，再按需深加载。完整叙述性索引见 [[index]]。
 
-总页数：**224**。
+总页数：**226**。
 
 | 重要度 | 类型 | 章节 | 作者 | 路径 | 标题 |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@ tags:
 | 3 | quote | 5 | claude | [[q-ch05-02|quotes/q-ch05-02.md]] | 引文 ch.5-2: 真实性格在一个人在压力下所做的选择中被揭示——压力越大，揭示... |
 | 3 | quote | 5 | claude | [[q-ch05-03|quotes/q-ch05-03.md]] | 引文 ch.5-3: Movies are about their last tw... |
 | 3 | quote | 5 | claude | [[q-ch05-04|quotes/q-ch05-04.md]] | 引文 ch.5-4: Thou shalt save the best for l... |
+| 3 | application | 6 | claude | [[controlling-idea-the-third-day|application/controlling-idea-the-third-day.md]] | 主控思想案例研究：第三天 |
 | 3 | chapter-summary | 6 | claude | [[chapter-06-structure-and-meaning|chapters/chapter-06-structure-and-meaning.md]] | 第6章：结构与意义 |
 | 3 | quote | 6 | claude | [[q-ch06-01|quotes/q-ch06-01.md]] | 引文 ch.6-1: 生活本身，没有艺术来塑造它，只会让你陷入混乱和困惑，但审美情... |
 | 3 | quote | 6 | claude | [[q-ch06-02|quotes/q-ch06-02.md]] | 引文 ch.6-2: 叙事是真理的创造性展示。故事是思想的活证据，是思想到行动的转... |
@@ -184,6 +185,7 @@ tags:
 | 3 | entity | 12 | claude | [[the-terminator|entities/the-terminator.md]] | 《终结者》（The Terminator, 1984） |
 | 3 | quote | 12 | claude | [[q-ch12-01|quotes/q-ch12-01.md]] | 引文 ch.12-1: 正因为激励事件发生了，所以高潮才非发生不可。 |
 | 3 | quote | 12 | claude | [[q-ch12-02|quotes/q-ch12-02.md]] | 引文 ch.12-2: 高潮前的停顿必须被赚到。 |
+| 3 | application | 13 | claude | [[crisis-climax-the-third-day|application/crisis-climax-the-third-day.md]] | 危机-高潮案例研究：第三天 |
 | 3 | chapter-summary | 13 | claude | [[chapter-13-crisis-climax-resolution|chapters/chapter-13-crisis-climax-resolution.md]] | 第13章：危机、高潮与结局 |
 | 3 | entity | 13 | claude | [[star-wars|entities/star-wars.md]] | 《星球大战》（Star Wars, 1977） |
 | 3 | entity | 13 | claude | [[thelma-louise|entities/thelma-louise.md]] | 《末路狂花》（Thelma & Louise, 1991） |

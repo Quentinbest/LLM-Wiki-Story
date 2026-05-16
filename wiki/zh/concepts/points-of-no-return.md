@@ -14,6 +14,10 @@ last_updated: 2026-04-15
 tags:
   - concept
   - structure
+importance: 3
+canonical_chapter: 9
+last_verified: 2026-04-15
+author: claude
 ---
 
 # 不归点（Points of No Return）

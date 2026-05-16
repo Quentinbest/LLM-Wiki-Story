@@ -13,6 +13,10 @@ last_updated: 2026-04-09
 tags:
   - note
   - personal-reflection
+importance: 2
+canonical_chapter: 4
+last_verified: 2026-04-09
+author: user
 ---
 
 # 第4章读书笔记：结构与类型

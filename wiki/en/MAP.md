@@ -2,7 +2,7 @@
 title: "MAP — Agent-Facing Manifest"
 type: index
 lang: en
-last_updated: 2026-04-30
+last_updated: 2026-05-06
 tags:
   - map
   - manifest
@@ -14,7 +14,7 @@ tags:
 
 This file lists every wiki page sorted by `importance` for fast triage. **Read MAP first** to identify high-value pages, then deep-load only what you need. The full prose index lives at [[index]].
 
-Total pages: **224**.
+Total pages: **226**.
 
 | Imp | Type | Ch | Author | Path | Title |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@ Total pages: **224**.
 | 3 | quote | 5 | claude | [[q-ch05-02|quotes/q-ch05-02.md]] | Q ch.5-2: TRUE CHARACTER is revealed in the choices a human being make... |
 | 3 | quote | 5 | claude | [[q-ch05-03|quotes/q-ch05-03.md]] | Q ch.5-3: Movies are about their last twenty minutes. |
 | 3 | quote | 5 | claude | [[q-ch05-04|quotes/q-ch05-04.md]] | Q ch.5-4: Thou shalt save the best for last. |
+| 3 | application | 6 | claude | [[controlling-idea-the-third-day|application/controlling-idea-the-third-day.md]] | Controlling Idea Case Study — The Third Day |
 | 3 | chapter-summary | 6 | claude | [[chapter-06-structure-and-meaning|chapters/chapter-06-structure-and-meaning.md]] | Chapter 6: Structure and Meaning |
 | 3 | quote | 6 | claude | [[q-ch06-01|quotes/q-ch06-01.md]] | Q ch.6-1: Life on its own, without art to shape it, leaves you in conf... |
 | 3 | quote | 6 | claude | [[q-ch06-02|quotes/q-ch06-02.md]] | Q ch.6-2: STORYTELLING is the creative demonstration of truth. A story... |
@@ -184,6 +185,7 @@ Total pages: **224**.
 | 3 | entity | 12 | claude | [[the-terminator|entities/the-terminator.md]] | The Terminator (1984) |
 | 3 | quote | 12 | claude | [[q-ch12-01|quotes/q-ch12-01.md]] | Q ch.12-1: Because of the Inciting Incident, the Climax had to happen. |
 | 3 | quote | 12 | claude | [[q-ch12-02|quotes/q-ch12-02.md]] | Q ch.12-2: We must earn the pause. |
+| 3 | application | 13 | claude | [[crisis-climax-the-third-day|application/crisis-climax-the-third-day.md]] | Crisis-Climax Case Study — The Third Day |
 | 3 | chapter-summary | 13 | claude | [[chapter-13-crisis-climax-resolution|chapters/chapter-13-crisis-climax-resolution.md]] | Chapter 13: Crisis, Climax, Resolution |
 | 3 | entity | 13 | claude | [[star-wars|entities/star-wars.md]] | Star Wars (1977) |
 | 3 | entity | 13 | claude | [[thelma-louise|entities/thelma-louise.md]] | Thelma & Louise (1991) |

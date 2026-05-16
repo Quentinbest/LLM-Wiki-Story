@@ -6,13 +6,21 @@ aliases:
   - "Writing from the Inside Out"
 chapter_refs:
   - 7
+  - 19
 related:
   - "[[the-gap]]"
   - "[[authenticity]]"
   - "[[dramatize-dont-explain]]"
-last_updated: 2026-04-15
+  - "[[step-outline]]"
+  - "[[treatment]]"
+  - "[[a-writers-method]]"
+last_updated: 2026-04-22
 tags:
   - principle
+importance: 4
+canonical_chapter: 7
+last_verified: 2026-04-22
+author: claude
 ---
 
 # 由内而外地写作（Writing from the Inside Out）
@@ -43,6 +51,8 @@ flowchart LR
 2. 以角色之身感受期待与现实之间的摩擦。
 3. 让摩擦生出场景的行动——对白最后才来。
 
+第19章将此原则推广到**项目**层面：分步提纲（[[step-outline]]）→ 处理稿（[[treatment]]）→ 剧本。过早写对白是"由外而内"方法的典型败相——它让作者抱住几句喜欢的台词，再去反向拧出故事。"由内而外"方法则让作者用 3x5 卡片先搭内里（事件、价值、潜文本）数月，然后才加字。
+
 ## 电影案例
 - *唐人街* — 汤恩由吉蒂斯的内伤处下笔，所以每一句俏皮对白都藏着隐痛。
 - *凡夫俗子* — 康拉德的沉默是从他的内疚里写出来的，而非外在"尴尬"。
@@ -53,4 +63,5 @@ flowchart LR
 - 情节推着角色走，而非角色选择催生情节。
 
 ## 来源
-- 《故事》第7章
+- 《故事》第7章（场景层面）
+- 《故事》第19章（项目方法）

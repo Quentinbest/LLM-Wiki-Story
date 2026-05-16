@@ -13,6 +13,10 @@ tags:
   - concept
   - craft
   - process
+importance: 3
+canonical_chapter: 3
+last_verified: 2026-04-09
+author: claude
 ---
 
 # Creative Choices

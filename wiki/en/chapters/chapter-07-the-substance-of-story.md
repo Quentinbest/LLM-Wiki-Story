@@ -15,6 +15,10 @@ source: "sources/book/7THE_SUBSTANCE_OF_STORY.md"
 last_updated: 2026-04-15
 tags:
   - chapter
+importance: 3
+canonical_chapter: 7
+last_verified: 2026-04-15
+author: claude
 ---
 
 # Chapter 7: The Substance of Story

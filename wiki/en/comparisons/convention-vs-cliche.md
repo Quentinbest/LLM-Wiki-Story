@@ -10,6 +10,10 @@ tags:
   - comparison
   - genre
   - craft
+importance: 4
+last_verified: 2026-04-09
+author: claude
+canonical_chapter: 3
 ---
 
 # Convention vs. Cliché

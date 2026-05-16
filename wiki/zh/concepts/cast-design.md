@@ -13,6 +13,10 @@ related:
 last_updated: 2026-04-15
 tags:
   - concept
+importance: 3
+canonical_chapter: 8
+last_verified: 2026-04-15
+author: claude
 ---
 
 # 人物阵容设计（Cast Design）

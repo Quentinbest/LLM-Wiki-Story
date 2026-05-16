@@ -21,6 +21,10 @@ tags:
   - entity
   - romance
   - wartime-drama
+importance: 3
+canonical_chapter: 9
+last_verified: 2026-04-15
+author: claude
 ---
 
 # 卡萨布兰卡（*Casablanca*, 1942）

@@ -19,6 +19,10 @@ tags:
   - entity
   - science-fiction
   - thriller
+importance: 3
+canonical_chapter: 12
+last_verified: 2026-04-17
+author: claude
 ---
 
 # 《终结者》（*The Terminator*, 1984）

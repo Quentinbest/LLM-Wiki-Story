@@ -16,6 +16,10 @@ last_updated: 2026-04-17
 tags:
   - concept
   - scene-analysis
+importance: 4
+canonical_chapter: 11
+last_verified: 2026-04-17
+author: claude
 ---
 
 # Text and Subtext

@@ -17,6 +17,10 @@ source: "sources/book/2THE_STRUCTURE_SPECTRUM.md"
 last_updated: 2026-04-07
 tags:
   - chapter
+importance: 3
+canonical_chapter: 2
+last_verified: 2026-04-07
+author: claude
 ---
 
 # 第2章：结构谱系

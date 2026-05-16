@@ -1,0 +1,14 @@
+# FADE OUT
+
+[FADE OUT](9780062039828_epub_toc_r1.htm#adc)
+=============================================
+
+You have pursued *Story* to its final chapter, and, with this step, taken your career in a direction many writers fear. Some, dreading that awareness of how they do what they do would cripple their spontaneity, never study the craft. Instead, they march along in a lockstep of unconscious habit, thinking it’s instinct. Their dreams of creating unique works of power and wonder are seldom, if ever, realized. They put in long, tough days, for no matter how it’s taken, the writer’s road is never smooth, and because they have a gift, from time to time their efforts draw applause, but in their secret selves they know they’re just taking talent for a walk. Such writers remind me of the protagonist of a fable my father loved to recite:
+
+*High above the forest floor, a millipede strolled along the branch of a tree, her thousand pairs of legs swinging in an easy gait. From the tree top, song birds looked down, fascinated by the synchronization of the millipede’s stride. “That’s an amazing talent,” chirped the songbirds. “You have more limbs than we can count. How do you do it?” And for the first time in her life the millipede thought about this. “Yes,” she wondered, “how do I do what I do?” As she turned to look back, her bristling legs suddenly ran into one another and tangled like vines of ivy. The songbirds laughed as the millipede, in a panic of confusion, twisted herself into a knot and fell to the earth below.*
+
+You too may sense this panic. I know that when confronted with a rush of insights even the most experienced writer can be knocked off stride. Fortunately, my father’s fable had an Act Two:
+
+*On the forest floor, the millipede, realizing that only her pride was hurt, slowly, carefully, limb by limb, unraveled herself. With patience and hard work, she studied and flexed and tested her appendages, until she was able to stand and walk. What was once instinct became knowledge. She realized she didn’t have to move at her old, slow, rote pace. She could amble, strut, prance, even run and jump. Then, as never before, she listened to the symphony of the songbirds and let music touch her heart. Now in perfect command of thousands of talented legs, she gathered courage and, with a style of her own, danced and danced a dazzling dance that astonished all the creatures of her world.*
+
+Write every day, line by line, page by page, hour by hour. Keep *Story* at hand. Use what you learn from it as a guide, until command of its principles becomes as natural as the talent you were born with. Do this despite fear. For above all else, beyond imagination and skill, what the world asks of you is courage, courage to risk rejection, ridicule and failure. As you follow the quest for stories told with meaning and beauty, study thoughtfully but write boldly. Then, like the hero of the fable, your dance will dazzle the world.

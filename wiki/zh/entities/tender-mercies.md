@@ -20,6 +20,10 @@ last_updated: 2026-04-07
 tags:
   - entity
   - drama
+importance: 3
+canonical_chapter: 1
+last_verified: 2026-04-07
+author: claude
 ---
 
 # 温柔的怜悯（*Tender Mercies*, 1983）

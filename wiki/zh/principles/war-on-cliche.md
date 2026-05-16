@@ -16,6 +16,10 @@ last_updated: 2026-04-09
 tags:
   - principle
   - craft
+importance: 4
+canonical_chapter: 3
+last_verified: 2026-04-09
+author: claude
 ---
 
 # 对抗陈词滥调（The War on Cliché）

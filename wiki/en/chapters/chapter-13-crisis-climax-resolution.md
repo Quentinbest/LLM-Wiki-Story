@@ -16,6 +16,10 @@ source: "sources/book/13CRISIS_CLIMAX_RESOLUTION.md"
 last_updated: 2026-04-17
 tags:
   - chapter
+importance: 3
+canonical_chapter: 13
+last_verified: 2026-04-17
+author: claude
 ---
 
 # Chapter 13: Crisis, Climax, Resolution

@@ -14,6 +14,10 @@ last_updated: 2026-04-10
 tags:
   - concept
   - meaning
+importance: 5
+canonical_chapter: 6
+last_verified: 2026-04-10
+author: claude
 ---
 
 # 审美情感（Aesthetic Emotion）

@@ -14,6 +14,10 @@ source: "sources/book/6STRUCTURE_AND_MEANING.md"
 last_updated: 2026-04-10
 tags:
   - chapter
+importance: 3
+canonical_chapter: 6
+last_verified: 2026-04-10
+author: claude
 ---
 
 # 第6章：结构与意义

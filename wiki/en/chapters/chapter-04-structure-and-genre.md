@@ -14,6 +14,10 @@ source: "sources/book/4STRUCTURE_AND_GENRE.md"
 last_updated: 2026-04-09
 tags:
   - chapter
+importance: 3
+canonical_chapter: 4
+last_verified: 2026-04-09
+author: claude
 ---
 
 # Chapter 4: Structure and Genre

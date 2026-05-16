@@ -17,6 +17,10 @@ last_updated: 2026-04-17
 tags:
   - entity
   - drama
+importance: 3
+canonical_chapter: 10
+last_verified: 2026-04-17
+author: claude
 ---
 
 # 《华尔街》（*Wall Street*, 1987）

@@ -16,6 +16,10 @@ last_updated: 2026-04-15
 tags:
   - concept
   - form
+importance: 4
+canonical_chapter: 8
+last_verified: 2026-04-15
+author: claude
 ---
 
 # 追寻（The Quest）

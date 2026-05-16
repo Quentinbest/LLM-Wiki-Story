@@ -16,6 +16,10 @@ tags:
   - entity
   - drama
   - redemption
+importance: 3
+canonical_chapter: 5
+last_verified: 2026-04-10
+author: claude
 ---
 
 # The Verdict (1982)

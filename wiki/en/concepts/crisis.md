@@ -16,6 +16,10 @@ last_updated: 2026-04-17
 tags:
   - concept
   - ending
+importance: 5
+canonical_chapter: 13
+last_verified: 2026-04-17
+author: claude
 ---
 
 # Crisis

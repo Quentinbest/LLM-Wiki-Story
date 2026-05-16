@@ -17,6 +17,10 @@ last_updated: 2026-04-15
 tags:
   - concept
   - structure
+importance: 5
+canonical_chapter: 9
+last_verified: 2026-04-15
+author: claude
 ---
 
 # Progressive Complications

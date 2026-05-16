@@ -16,6 +16,10 @@ last_updated: 2026-04-09
 tags:
   - principle
   - genre
+importance: 4
+canonical_chapter: 4
+last_verified: 2026-04-09
+author: claude
 ---
 
 # 精通你的类型（Master Your Genre）

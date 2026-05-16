@@ -17,6 +17,10 @@ last_updated: 2026-04-15
 tags:
   - entity
   - sports
+importance: 3
+canonical_chapter: 8
+last_verified: 2026-04-15
+author: claude
 ---
 
 # Rocky (1976)

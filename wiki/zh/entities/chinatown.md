@@ -25,6 +25,10 @@ tags:
   - entity
   - crime
   - film-noir
+importance: 3
+canonical_chapter: 3
+last_verified: 2026-04-15
+author: claude
 ---
 
 # 唐人街（*Chinatown*, 1974）

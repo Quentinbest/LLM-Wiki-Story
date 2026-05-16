@@ -175,6 +175,8 @@ last_updated: 2026-04-30
 - [[a-writers-method]] — McKee's full inside-out workflow: idea → step-outline → pitch → treatment → screenplay → polishes
 - [[step-outline]] — The story on 3x5 cards: one or two sentences per scene, organized by act, purpose labeled on the back
 - [[treatment]] — Moment-by-moment description with full subtext but no dialogue; 60–90 pages
+- [[controlling-idea-the-third-day]] — Case study: forging an ironic Controlling Idea ("gratitude becomes its own corruption when the saved cannot bear to ruin the savior") for a Dalian-1989 customs/crime drama
+- [[crisis-climax-the-third-day]] — Case study: a Climax of *concealment* (forged countersign at the 18:00 whistle), with a Resolution whose Key Image is the recomposition of the Climax frame
 
 ## Notes
 - [[chapter-01-notes]] — Reflections on entertainment, story's definition, the loves of a writer, literary vs. story talent

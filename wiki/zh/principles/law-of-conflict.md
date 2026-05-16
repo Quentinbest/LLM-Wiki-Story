@@ -15,6 +15,10 @@ related:
 last_updated: 2026-04-15
 tags:
   - principle
+importance: 4
+canonical_chapter: 9
+last_verified: 2026-04-15
+author: claude
 ---
 
 # 冲突律（Law of Conflict）

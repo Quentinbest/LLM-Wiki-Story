@@ -9,3 +9,20 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Local tool configs
+.claude/
+.codex/
+.obsidian/
+.playwright-mcp/
+
+# Local screenshots and scratch
+/dashboard.png
+/mobile-*.png
+/warnings-*.png
+/wiki-concept-map.*
+/writing-reverse-dao-conversation.txt

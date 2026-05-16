@@ -12,6 +12,10 @@ related:
 last_updated: 2026-04-17
 tags:
   - concept
+importance: 4
+canonical_chapter: 8
+last_verified: 2026-04-17
+author: claude
 ---
 
 # Foreshadowing

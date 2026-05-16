@@ -15,6 +15,10 @@ source: "sources/book/3STRUCTURE_AND_SETTING.md"
 last_updated: 2026-04-09
 tags:
   - chapter
+importance: 3
+canonical_chapter: 3
+last_verified: 2026-04-09
+author: claude
 ---
 
 # 第3章：结构与背景

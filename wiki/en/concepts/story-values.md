@@ -12,6 +12,10 @@ last_updated: 2026-04-07
 tags:
   - concept
   - story-mechanics
+importance: 3
+canonical_chapter: 2
+last_verified: 2026-04-07
+author: claude
 ---
 
 # Story Values

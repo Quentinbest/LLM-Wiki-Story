@@ -17,6 +17,10 @@ last_updated: 2026-04-07
 tags:
   - principle
   - craft
+importance: 4
+canonical_chapter: 2
+last_verified: 2026-04-07
+author: claude
 ---
 
 # 必须掌握经典形式（Master Classical Form）

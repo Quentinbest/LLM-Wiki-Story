@@ -14,6 +14,10 @@ last_updated: 2026-04-10
 tags:
   - concept
   - character
+importance: 5
+canonical_chapter: 5
+last_verified: 2026-04-10
+author: claude
 ---
 
 # Characterization vs. True Character

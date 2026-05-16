@@ -17,6 +17,10 @@ tags:
   - entity
   - drama
   - war
+importance: 3
+canonical_chapter: 12
+last_verified: 2026-04-17
+author: claude
 ---
 
 # The Deer Hunter (1978)

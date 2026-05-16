@@ -16,6 +16,10 @@ last_updated: 2026-04-17
 tags:
   - entity
   - comedy
+importance: 3
+canonical_chapter: 10
+last_verified: 2026-04-17
+author: claude
 ---
 
 # 《颠倒乾坤》（*Trading Places*, 1983）

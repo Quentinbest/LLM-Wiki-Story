@@ -13,6 +13,10 @@ last_updated: 2026-04-09
 tags:
   - note
   - personal-reflection
+importance: 2
+canonical_chapter: 1
+last_verified: 2026-04-09
+author: user
 ---
 
 # Notes on Chapter 1: The Story Problem

@@ -17,6 +17,10 @@ tags:
   - entity
   - adventure
   - science-fiction
+importance: 3
+canonical_chapter: 10
+last_verified: 2026-04-17
+author: claude
 ---
 
 # The Empire Strikes Back (1980)

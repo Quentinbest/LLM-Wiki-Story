@@ -17,6 +17,10 @@ last_updated: 2026-04-17
 tags:
   - concept
   - scene-design
+importance: 5
+canonical_chapter: 10
+last_verified: 2026-04-17
+author: claude
 ---
 
 # Turning Point

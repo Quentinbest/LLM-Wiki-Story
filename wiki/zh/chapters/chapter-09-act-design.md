@@ -17,6 +17,10 @@ source: "sources/book/9ACT_DESIGN.md"
 last_updated: 2026-04-15
 tags:
   - chapter
+importance: 3
+canonical_chapter: 9
+last_verified: 2026-04-15
+author: claude
 ---
 
 # 第9章：幕的设计

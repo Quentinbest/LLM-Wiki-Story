@@ -18,6 +18,10 @@ last_updated: 2026-04-09
 tags:
   - concept
   - world-building
+importance: 4
+canonical_chapter: 3
+last_verified: 2026-04-09
+author: claude
 ---
 
 # 故事背景（Setting）

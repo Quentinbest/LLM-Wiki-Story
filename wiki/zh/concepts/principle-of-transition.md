@@ -18,6 +18,10 @@ last_updated: 2026-04-17
 tags:
   - concept
   - composition
+importance: 3
+canonical_chapter: 12
+last_verified: 2026-04-17
+author: claude
 ---
 
 # 转场原则（Principle of Transition）

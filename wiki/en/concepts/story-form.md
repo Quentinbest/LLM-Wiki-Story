@@ -12,6 +12,10 @@ last_updated: 2026-04-07
 tags:
   - concept
   - philosophy
+importance: 4
+canonical_chapter: 1
+last_verified: 2026-04-07
+author: claude
 ---
 
 # Story Form

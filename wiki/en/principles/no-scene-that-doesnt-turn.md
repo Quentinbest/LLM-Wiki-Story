@@ -18,6 +18,10 @@ last_updated: 2026-04-17
 tags:
   - principle
   - scene-craft
+importance: 5
+canonical_chapter: 2
+last_verified: 2026-04-17
+author: claude
 ---
 
 # No Scene That Doesn't Turn

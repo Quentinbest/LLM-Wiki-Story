@@ -4,6 +4,14 @@ type: log
 lang: en
 ---
 
+## [2026-05-06] migrate | The Third Day — Controlling Idea + Crisis-Climax case studies
+- Source: project artifacts under `drafts/the-third-day/` (controlling-idea.md, crisis-climax-audit.md, spine.md, key-image.md, antagonism-test.md, plus supporting cast-design.md and act-design.md)
+- Pages created: `wiki/en/application/controlling-idea-the-third-day.md`, `wiki/zh/application/controlling-idea-the-third-day.md`, `wiki/en/application/crisis-climax-the-third-day.md`, `wiki/zh/application/crisis-climax-the-third-day.md`
+- Pages updated: `wiki/en/index.md`, `wiki/zh/index.md` (Application section: two new entries each)
+- Contradictions flagged: none
+- Notes: First end-to-end migration produced by the project's bespoke agent fleet under `.claude/agents/`. The drafts directory holds the full project context (premise slate, contracts, character files, arc map, scene cards, beat-level analyses, exposition ledger, subtext audit) — these wiki pages are the *teaching artifacts* distilled from the drafts. Migration honored: bilingual mirroring with natural Chinese (not literal translation); identical EN/ZH Mermaid topology (verified per `CLAUDE.md` policy); language toggles top of every page; `[[wikilink]]` discipline restoring connections to existing concept pages (controlling-idea, crisis, story-climax, dilemma, idea-vs-counter-idea, negation-of-the-negation, key-image, image-systems, principle-of-antagonism, false-ending, inevitable-and-unexpected, mixing-genres, melodrama, coincidence); `author: claude`; `importance: 3` (case studies — usable but project-specific, below `a-writers-method` at 4); `canonical_chapter: 6` for the Idea page and `13` for the Crisis-Climax page. Both pages cross-link to each other and to `chapter-06-structure-and-meaning` / `chapter-13-crisis-climax-resolution` / `chapter-14-the-principle-of-antagonism`. MAP regeneration pending.
+
+
 # Wiki Log
 
 ## [2026-04-05] setup | Project initialized

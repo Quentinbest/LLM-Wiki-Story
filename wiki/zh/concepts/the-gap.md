@@ -22,6 +22,10 @@ last_updated: 2026-04-15
 tags:
   - concept
   - substance
+importance: 5
+canonical_chapter: 7
+last_verified: 2026-04-15
+author: claude
 ---
 
 # 鸿沟（The Gap）

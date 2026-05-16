@@ -19,6 +19,10 @@ last_updated: 2026-04-17
 tags:
   - concept
   - character
+importance: 5
+canonical_chapter: 7
+last_verified: 2026-04-17
+author: claude
 ---
 
 # Protagonist

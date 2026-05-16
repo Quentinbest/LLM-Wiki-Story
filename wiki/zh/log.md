@@ -6,6 +6,14 @@ lang: zh
 
 # 维基日志
 
+## [2026-05-06] 迁移 | 《第三天》——主控思想 + 危机-高潮 案例研究
+- 来源：`drafts/the-third-day/` 下的项目工件（controlling-idea.md、crisis-climax-audit.md、spine.md、key-image.md、antagonism-test.md，以及辅助的 cast-design.md、act-design.md）
+- 新建页面：`wiki/en/application/controlling-idea-the-third-day.md`、`wiki/zh/application/controlling-idea-the-third-day.md`、`wiki/en/application/crisis-climax-the-third-day.md`、`wiki/zh/application/crisis-climax-the-third-day.md`
+- 更新页面：`wiki/en/index.md`、`wiki/zh/index.md`（实践应用栏目：各新增两项）
+- 标记矛盾：无
+- 备注：本项目在 `.claude/agents/` 下定制的代理编队产出的首次端到端迁移。`drafts/` 目录保留完整项目上下文（前提候选单、各份契约、人物文件、弧光地图、场景卡、节拍级分析、铺陈台账、潜文本审计）——这两份维基页面是从 drafts 中蒸馏出的**教学工件**。迁移遵守：双语镜像（中文为自然写作而非字面翻译）；EN/ZH Mermaid 拓扑严格相同（已按 `CLAUDE.md` 校验）；每页顶部的语言切换；`[[wikilink]]` 纪律——把链接回连到既有概念页（controlling-idea、crisis、story-climax、dilemma、idea-vs-counter-idea、negation-of-the-negation、key-image、image-systems、principle-of-antagonism、false-ending、inevitable-and-unexpected、mixing-genres、melodrama、coincidence）；`author: claude`；`importance: 3`（案例研究——可用但项目专用，低于 `a-writers-method` 的 4）；主控思想页 `canonical_chapter: 6`，危机-高潮页 `canonical_chapter: 13`。两页相互交叉链接，并链至 `chapter-06-structure-and-meaning`、`chapter-13-crisis-climax-resolution`、`chapter-14-the-principle-of-antagonism`。MAP 重建待执行。
+
+
 ## [2026-04-05] 初始化 | 项目搭建
 - 搭建了目录结构
 - 创建了 CLAUDE.md 架构文件

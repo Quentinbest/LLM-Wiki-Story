@@ -13,6 +13,10 @@ last_updated: 2026-04-09
 tags:
   - note
   - personal-reflection
+importance: 2
+canonical_chapter: 1
+last_verified: 2026-04-09
+author: user
 ---
 
 # 第1章读书笔记：故事问题

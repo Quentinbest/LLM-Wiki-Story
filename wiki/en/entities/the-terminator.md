@@ -17,6 +17,10 @@ tags:
   - entity
   - science-fiction
   - thriller
+importance: 3
+canonical_chapter: 12
+last_verified: 2026-04-17
+author: claude
 ---
 
 # The Terminator (1984)

@@ -10,6 +10,10 @@ last_updated: 2026-04-07
 tags:
   - comparison
   - story-design
+importance: 4
+last_verified: 2026-04-07
+author: claude
+canonical_chapter: 2
 ---
 
 # Archplot vs. Miniplot vs. Antiplot

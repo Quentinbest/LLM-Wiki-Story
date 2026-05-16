@@ -9,6 +9,10 @@ last_updated: 2026-04-07
 tags:
   - comparison
   - craft
+importance: 4
+last_verified: 2026-04-07
+author: claude
+canonical_chapter: 1
 ---
 
 # Literary Talent vs. Story Talent

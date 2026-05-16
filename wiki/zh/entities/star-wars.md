@@ -18,6 +18,10 @@ tags:
   - entity
   - adventure
   - science-fiction
+importance: 3
+canonical_chapter: 13
+last_verified: 2026-04-17
+author: claude
 ---
 
 # 《星球大战》（*Star Wars*, 1977）

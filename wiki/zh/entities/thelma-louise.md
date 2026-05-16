@@ -18,6 +18,10 @@ tags:
   - entity
   - drama
   - road-movie
+importance: 3
+canonical_chapter: 13
+last_verified: 2026-04-17
+author: claude
 ---
 
 # 《末路狂花》（*Thelma & Louise*, 1991）

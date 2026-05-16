@@ -10,6 +10,10 @@ related:
 last_updated: 2026-04-15
 tags:
   - concept
+importance: 3
+canonical_chapter: 7
+last_verified: 2026-04-15
+author: claude
 ---
 
 # Minimum Conservative Action

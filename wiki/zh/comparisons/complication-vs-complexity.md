@@ -10,6 +10,10 @@ subjects:
 last_updated: 2026-04-15
 tags:
   - comparison
+importance: 4
+last_verified: 2026-04-15
+author: claude
+canonical_chapter: 9
 ---
 
 # 复杂化 vs. 复杂性（Complication vs. Complexity）

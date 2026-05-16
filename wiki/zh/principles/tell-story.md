@@ -15,6 +15,10 @@ last_updated: 2026-04-07
 tags:
   - principle
   - craft
+importance: 4
+canonical_chapter: 1
+last_verified: 2026-04-07
+author: claude
 ---
 
 # 讲故事（Tell Story / The Story Imperative）
