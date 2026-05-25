@@ -4,7 +4,7 @@
   "lang": "zh",
   "created": "2026-05-24",
   "last_updated": "2026-05-25",
-  "state": "prose_drafted",
+  "state": "polished",
   "locked": {
     "premise": true,
     "genre": true,
@@ -16,8 +16,8 @@
     "scene_cards": true,
     "beat_sheets": false,
     "prose": true,
-    "critic_passed": false,
-    "polished": false
+    "critic_passed": true,
+    "polished": true
   },
   "artifacts": {
     "premise_card": "drafts/wrong-account/premise-card.md",

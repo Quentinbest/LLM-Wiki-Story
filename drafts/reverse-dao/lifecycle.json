@@ -1,0 +1,56 @@
+{
+  "slug": "reverse-dao",
+  "title": "废徒倒丹",
+  "lang": "zh",
+  "state": "polished",
+  "locked": {
+    "premise": true,
+    "genre": true,
+    "controlling_idea": true,
+    "setting": true,
+    "cast": true,
+    "spine": true,
+    "act_design": true,
+    "scene_cards": true,
+    "beat_sheets": false,
+    "prose_drafted": true,
+    "critic_passed": true,
+    "polished": true
+  },
+  "artifacts": {
+    "premise_card": "drafts/reverse-dao/premise-card.md",
+    "genre_contract": "drafts/reverse-dao/genre-contract.md",
+    "controlling_idea": "drafts/reverse-dao/controlling-idea.md",
+    "world_bible": "drafts/reverse-dao/world-bible.md",
+    "setting_survey": "drafts/reverse-dao/setting-survey.md",
+    "cast_design": "drafts/reverse-dao/cast-design.md",
+    "spine": "drafts/reverse-dao/spine.md",
+    "act_design": "drafts/reverse-dao/act-design.md",
+    "scene_cards": [
+      "drafts/reverse-dao/scenes/01-act-1-scenes.md",
+      "drafts/reverse-dao/scenes/02-act-2-scenes.md",
+      "drafts/reverse-dao/scenes/03-act-3-scenes.md",
+      "drafts/reverse-dao/scenes/04-act-4-scenes.md"
+    ],
+    "key_image": "drafts/reverse-dao/key-image.md",
+    "voice_anchors": "drafts/reverse-dao/voice-anchors.md",
+    "audit_report": "drafts/reverse-dao/audit-report.md",
+    "revision_log": "drafts/reverse-dao/revision-log.md",
+    "prose_files": 50
+  },
+  "passes_completed": {
+    "pass_1_structure": true,
+    "pass_2_cliche": true,
+    "pass_3_subtext": true,
+    "pass_4_image_system": true,
+    "pass_5_voice": true,
+    "pass_6_specificity": true,
+    "pass_7_reader_simulation": false
+  },
+  "outstanding": [
+    "calendar/physical age system (~40+ instances) — author decision: keep as technical markers / replace with Chinese / hybrid",
+    "Inline (Seq N.N) parenthetical cross-references — author decision: rewrite as prose descriptions / keep as navigation anchors",
+    "Pass 7 Reader Simulation — optional; reader-simulator agent not yet built"
+  ],
+  "last_updated": "2026-05-21"
+}
