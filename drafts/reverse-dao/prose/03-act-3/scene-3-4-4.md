@@ -248,7 +248,7 @@ hard_constraints_observed:
 
 ——
 
-师傅 calendar 数百年来——
+师傅数百年来——
 
 ——
 

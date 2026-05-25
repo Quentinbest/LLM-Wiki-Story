@@ -48,9 +48,11 @@
     "pass_7_reader_simulation": false
   },
   "outstanding": [
-    "calendar/physical age system (~40+ instances) — author decision: keep as technical markers / replace with Chinese / hybrid",
-    "Inline (Seq N.N) parenthetical cross-references — author decision: rewrite as prose descriptions / keep as navigation anchors",
     "Pass 7 Reader Simulation — optional; reader-simulator agent not yet built"
   ],
-  "last_updated": "2026-05-21"
+  "resolved": [
+    "2026-05-26: calendar/physical age markers (62 prose + 4 world-bible) converted to in-world Chinese terms 容龄 (appearance age) / 实龄 (true age); terms defined in world-bible §1.1",
+    "2026-05-26: inline (Seq N.N) cross-refs (~33) stripped from narrative prose and rewritten as natural recall; belief-tracking annotation block in scene-4-2-2 left as non-narrative authoring notes"
+  ],
+  "last_updated": "2026-05-26"
 }

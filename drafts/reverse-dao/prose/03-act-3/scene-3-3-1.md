@@ -54,7 +54,7 @@ hard_constraints_observed:
 
 ——
 
-是三 calendar 年前那夜在主角丹田上断成两截的另一截。
+是三年前那夜在主角丹田上断成两截的另一截。
 
 ——
 
@@ -224,7 +224,7 @@ hard_constraints_observed:
 
 ——
 
-师傅九百九十八岁 calendar 化神前期的右手腕——
+师傅实龄九百九十八化神前期的右手腕——
 
 ——
 

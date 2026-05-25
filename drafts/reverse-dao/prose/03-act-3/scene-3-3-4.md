@@ -30,7 +30,7 @@ hard_constraints_observed:
 
 ——
 
-师傅九百九十八岁 calendar 化神前期的右手腕——
+师傅实龄九百九十八化神前期的右手腕——
 
 ——
 
