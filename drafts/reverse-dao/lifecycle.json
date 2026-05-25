@@ -2,7 +2,7 @@
   "slug": "reverse-dao",
   "title": "废徒倒丹",
   "lang": "zh",
-  "state": "polished",
+  "state": "done",
   "locked": {
     "premise": true,
     "genre": true,
@@ -15,7 +15,8 @@
     "beat_sheets": false,
     "prose_drafted": true,
     "critic_passed": true,
-    "polished": true
+    "polished": true,
+    "published": true
   },
   "artifacts": {
     "premise_card": "drafts/reverse-dao/premise-card.md",
@@ -36,7 +37,9 @@
     "voice_anchors": "drafts/reverse-dao/voice-anchors.md",
     "audit_report": "drafts/reverse-dao/audit-report.md",
     "revision_log": "drafts/reverse-dao/revision-log.md",
-    "prose_files": 50
+    "manuscript": "drafts/reverse-dao/manuscript.md",
+    "colophon": "drafts/reverse-dao/colophon.md",
+    "prose_files": 52
   },
   "passes_completed": {
     "pass_1_structure": true,
