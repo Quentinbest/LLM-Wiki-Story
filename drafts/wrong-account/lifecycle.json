@@ -1,0 +1,34 @@
+{
+  "slug": "wrong-account",
+  "title": "魔尊账号",
+  "lang": "zh",
+  "created": "2026-05-24",
+  "last_updated": "2026-05-25",
+  "state": "prose_drafted",
+  "locked": {
+    "premise": true,
+    "genre": true,
+    "controlling_idea": true,
+    "setting": true,
+    "cast": true,
+    "spine": true,
+    "act_design": true,
+    "scene_cards": true,
+    "beat_sheets": false,
+    "prose": true,
+    "critic_passed": false,
+    "polished": false
+  },
+  "artifacts": {
+    "premise_card": "drafts/wrong-account/premise-card.md",
+    "controlling_idea": "drafts/wrong-account/controlling-idea.md",
+    "genre_contract": "drafts/wrong-account/genre-contract.md",
+    "spine": "drafts/wrong-account/spine.md",
+    "world_bible": "drafts/wrong-account/world-bible.md",
+    "scene_cards_dir": "drafts/wrong-account/scenes/",
+    "prose_dir": "drafts/wrong-account/prose/",
+    "persona": "drafts/wrong-account/persona.md",
+    "misdirection_plan": "drafts/wrong-account/misdirection-plan.md"
+  },
+  "haunt": "被随手的玩笑绑定成命运。当游戏成真，所有认真玩过的人都如愿以偿——得到了自己努力修炼的英雄实力。而主角得到的，是一个从未认真对待的选择：曾经随手创建的反派账号。他不是坏人，但世界已经决定他是谁了。"
+}
