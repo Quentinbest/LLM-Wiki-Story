@@ -3,8 +3,8 @@
   "title": "魔尊账号",
   "lang": "zh",
   "created": "2026-05-24",
-  "last_updated": "2026-05-25",
-  "state": "polished",
+  "last_updated": "2026-05-26",
+  "state": "done",
   "locked": {
     "premise": true,
     "genre": true,
@@ -17,7 +17,8 @@
     "beat_sheets": false,
     "prose": true,
     "critic_passed": true,
-    "polished": true
+    "polished": true,
+    "published": true
   },
   "artifacts": {
     "premise_card": "drafts/wrong-account/premise-card.md",
@@ -28,7 +29,10 @@
     "scene_cards_dir": "drafts/wrong-account/scenes/",
     "prose_dir": "drafts/wrong-account/prose/",
     "persona": "drafts/wrong-account/persona.md",
-    "misdirection_plan": "drafts/wrong-account/misdirection-plan.md"
+    "misdirection_plan": "drafts/wrong-account/misdirection-plan.md",
+    "manuscript": "drafts/wrong-account/manuscript.md",
+    "colophon": "drafts/wrong-account/colophon.md"
   },
+  "notes": "Published 2026-05-26. Realized draft ~10,700 CJK chars — well below act-design's 60-80k plan; spare minimalist style, complete as a tight novelette.",
   "haunt": "被随手的玩笑绑定成命运。当游戏成真，所有认真玩过的人都如愿以偿——得到了自己努力修炼的英雄实力。而主角得到的，是一个从未认真对待的选择：曾经随手创建的反派账号。他不是坏人，但世界已经决定他是谁了。"
 }
