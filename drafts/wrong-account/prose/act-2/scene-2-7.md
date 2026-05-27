@@ -1,5 +1,5 @@
 ---
-title: Scene 2.7 — 他知道它在哪儿
+title: Scene 2.7 — 手搁在口袋边沿
 act: 2
 scene: 7
 project: wrong-account
@@ -60,5 +60,3 @@ last_updated: 2026-05-26
 手搁在口袋边沿。
 
 他没看那个号码。
-
-但他知道它在哪儿。

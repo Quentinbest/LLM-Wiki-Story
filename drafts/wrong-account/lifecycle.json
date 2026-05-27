@@ -3,7 +3,9 @@
   "title": "魔尊账号",
   "lang": "zh",
   "created": "2026-05-24",
-  "last_updated": "2026-05-26",
+  "last_updated": "2026-05-27",
+  "manuscript_built_at": "2026-05-27",
+  "target_total": 18000,
   "state": "done",
   "locked": {
     "premise": true,
@@ -33,6 +35,6 @@
     "manuscript": "drafts/wrong-account/manuscript.md",
     "colophon": "drafts/wrong-account/colophon.md"
   },
-  "notes": "Published 2026-05-26 (~10,700 CJK), then expanded same day to ~18,000 CJK in Pei Ming's long-scene voice — load-bearing Acts III/IV and the midpoint/PC-4 rebuilt; balanced acts (I 3.1k / II 4.5k / III 7.3k / IV 3.1k). Building geography locked in world-bible (3 distinct buildings). manuscript.md regenerated from expanded prose. Some Act I/II scenes (1.1/1.2/1.4, 2.2/2.3/2.5) left at adequate density by design.",
+  "notes": "Published 2026-05-26 (~10,700 CJK), then expanded same day to ~18,000 CJK in Pei Ming's long-scene voice — load-bearing Acts III/IV and the midpoint/PC-4 rebuilt; balanced acts (I 3.1k / II 4.5k / III 7.3k / IV 3.1k). Building geography locked in world-bible (3 distinct buildings). manuscript.md regenerated from expanded prose. Some Act I/II scenes (1.1/1.2/1.4, 2.2/2.3/2.5) left at adequate density by design. 2026-05-27 post-audit revision: 7 targeted cuts — narrated-realization cluster (3.8 ×3, 3.6 ×2, 3.1 ×2), dash-gloss cuts (4.6 ×2), persona-violation '他知道' cut (2.7, retitled), screen-reflection cliché cut (3.1); sister active-failure micro-beat added (2.2).",
   "haunt": "被随手的玩笑绑定成命运。当游戏成真，所有认真玩过的人都如愿以偿——得到了自己努力修炼的英雄实力。而主角得到的，是一个从未认真对待的选择：曾经随手创建的反派账号。他不是坏人，但世界已经决定他是谁了。"
 }
